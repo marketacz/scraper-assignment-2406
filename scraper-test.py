@@ -19,7 +19,7 @@ def scrape_page(url):
     soup = BeautifulSoup(content_url, "html.parser")
     return soup
 
-#test
+#price
 output_dict = {}
 
 for i in range(1, 25):
@@ -28,22 +28,22 @@ for i in range(1, 25):
 
     products = page_data.select("h3.sc-dmyCSP")
     brands = page_data.select("h2.sc-guDLey")
-    # # prices = page_data.select("span.sc-hhyKGa")
+    prices = page_data.select("span.sc-hhyKGa.sc-gYrqIg.iwwcvf.dOVzXZ")
     # # prices = page_data.find("span", {"class": "sc-hhyKGa sc-gYrqIg iwwcvf dOVzXZ"})
 
     # # for product in products:
     # #     product_out = product.text.strip()
     # #     output_dict["Brand"] = product_out
 
-    for product, brand in zip(products, brands):
+    for product, brand, price in zip(products, brands, prices):
         product_out = product.text.strip()
         brand_out = brand.text.strip()
-        # price_out = price.text.strip()
+        price_out = price.text.strip()
 
         output_dict = {
             "Product Name": product_out,
             "Brand": brand_out,
-            # "Price": price_out,
+            "Price": price_out,
         }
     #     output_data.append(output_dict)
     # for price in page_data:
