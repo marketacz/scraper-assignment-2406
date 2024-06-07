@@ -1,459 +1,358 @@
-Product Name,Brand,Price,Link,Image
-Whitening,MEDIBLANC,193,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
-Whitening,Opalescence,85,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
-Healthy Gums,MEDIBLANC,325,https://www.notino.cz/mediblanc/healthy-gums-zubni-pasta-pro-ochranu-dasni/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300530559-o__221027.jpg
-Whitening Sensitivity Relief,Opalescence,97,https://www.notino.cz/opalescence/sensitivity-relief-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//opalescence/883205029430_01-o__160513.jpg
-Extreme Whitening,Swissdent,315,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
-Gum & Enamel Repair Fresh White,Oral B,112,https://www.notino.cz/oral-b/gum-enamel-repair-extra-fresh-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//oral-b/8001090794413_01-o__240304.jpg
-Whitening Herbal,MEDIBLANC,306,https://www.notino.cz/mediblanc/whitening-herbal-bylinna-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300538166-o__221027.jpg
-Triple Action Original Mint,Colgate,29,https://www.notino.cz/colgate/triple-action-duopack-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835971_01-o__230810.jpg
-Caries Protection Kids,Elmex,86,https://www.notino.cz/elmex/caries-protection-kids-zubni-pasta-pro-deti-73190/,https://cdn.notinoimg.com/list_2k//elmex/7610108056354_01-o__230215.jpg
-Original White,G.U.M,96,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
-Natural,Jack N’ Jill,134,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
-Mintperfekt Activ,Ziaja,49,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
-Teeth,NUK,165,https://www.notino.cz/nuk/teeth-sada-zubni-pecepro-deti/,https://cdn.notinoimg.com/list_2k//nuk/4008600215769_01__210818.jpg
-Natural Siberian 7 Northern Herbs,Natura Siberica,90,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
-Professional Choice,White Glo,18,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
-Kids 0-6,Biorepair,67,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
-Natural Siberian Siberian Pearl,Natura Siberica,73,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
-Tooth Mousse,GC,494,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
-Whitening Mint,Marvis,104,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
-Caries Protection,Elmex,110,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
-Sensitive Whitening,Elmex,79,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
-Junior 6-12 Years,Elmex,130,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
-Expert Black Whitening,Ecodenta,63,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
-Sensitive,Elmex,215,https://www.notino.cz/elmex/sensitive-plus-kosmeticka-sada-i/,https://cdn.notinoimg.com/list_2k//elmex/8714789994208_01-o__240223.jpg
-Total Protective Repair,Biorepair,80,https://www.notino.cz/biorepair/total-protective-repair-posilujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//biorepair/8017331048429_01-o__220811.jpg
-Professional Choice,White Glo,18,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
-Natural Siberian 7 Northern Herbs,Natura Siberica,90,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
-Repair & Protect,Sensodyne,141,https://www.notino.cz/sensodyne/repair-protect-zubni-pasta-pro-citlive-zuby-73385/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563103567_01-o__210908.jpg
-Junior 6-12 Years,Elmex,79,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
-Expert Triple Force,Ecodenta,88,https://www.notino.cz/ecodenta/extra-zubni-pasta-s-trojim-ucinkem/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001331903_01-o__160825.jpg
-Kids 0-6,Biorepair,67,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
-Extra Whitening,Sensodyne,88,https://www.notino.cz/sensodyne/extra-whitening-belici-zubni-pasta-s-fluoridem-pro-citlive-zuby-394207/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563039774_01-o__180406.jpg
-Plus Sensitive Teeth,Biorepair,139,https://www.notino.cz/biorepair/plus-sensitive-pasta-obnovujici-zubni-sklovinu-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//biorepair/brpdsbw_ktps10_01__170410.jpg
-Professional Biocalcium,Splat,103,https://www.notino.cz/splat/professional-biocalcium-bioaktivni-zubni-pasta-pro-obnovu-zubni-skloviny-a-setrne-beleni/,https://cdn.notinoimg.com/list_2k//splat/7640168930059_01-o__220908.jpg
-Travel Set,Curaprox,260,https://www.notino.cz/curaprox/travel-set-cestovni-setna-zuby-jazyk-a-dasne/,https://cdn.notinoimg.com/list_2k//curaprox/7612412429879_01-o__220520.jpg
-MI Paste Plus,GC,493,https://www.notino.cz/gc/mi-paste-plus-strawberry-remineralizacni-ochranny-krem-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//gc/2800011987264_01-o__160323.jpg
-Biomed Calcimax,Splat,92,https://www.notino.cz/splat/biomed-calcimax-pasta-posilujici-zubni-sklovinu-s-vytazky-z-morskych-ras/,https://cdn.notinoimg.com/list_2k//splat/2800015078340_01-o__220908.jpg
-Ultra Clean,Parodontax,102,https://www.notino.cz/parodontax/ultra-clean-zubni-pasta-proti-krvaceni-dasni-a-parodontoze/,https://cdn.notinoimg.com/list_2k//parodontax/5054563011251_01-o__160422.jpg
-Classic,Parodontax,106,https://www.notino.cz/parodontax/classic-zubni-pasta-proti-krvaceni-dasni-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//parodontax/4047400392041_01-o__140428.jpg
-The Mints Jasmin,Marvis,104,https://www.notino.cz/marvis/jasmin-mint-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111756_01-o__171120.jpg
-Smokers,DentYucral,144,https://www.notino.cz/dentyucral/smokers-belici-zubni-pudr/,https://cdn.notinoimg.com/list_2k//dentyucral/8470002079106_01-o__220818.jpg
-Plus Pro White,Biorepair,139,https://www.notino.cz/biorepair/plus-pro-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//biorepair/8017331055380_01-o__210301.jpg
-Limited Edition Black is White,Curaprox,387,https://www.notino.cz/curaprox/limited-edition-black-is-white-cestovni-sadana-zuby-jazyk-a-dasne/,https://cdn.notinoimg.com/list_2k//curaprox/7612412430332_01__231211.jpg
-Biomed Superwhite,Splat,90,https://www.notino.cz/splat/biomed-superwhite-posilujici-zubni-pasta-s-kokosovym-olejem/,https://cdn.notinoimg.com/list_2k//splat/2800015078357_01-o__220908.jpg
-Naturaverde Oral Care Set,Be a Unicorn,349,https://www.notino.cz/be-a-unicorn/naturaverde-oral-care-set-darkova-sadapro-deti/,https://cdn.notinoimg.com/list_2k//be_a_unicorn/8029241134130_01-o__230517.jpg
-Natural Siberian Arctic Protection,Natura Siberica,75,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-arctic-protection-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437555_01-o__190709.jpg
-Advanced Intensive Night,Biorepair,139,https://www.notino.cz/biorepair/intensive-night-repair-nocni-pece/,https://cdn.notinoimg.com/list_2k//biorepair/8017331064092_01-o__130724.jpg
-3D White Arctic Fresh,Blend-a-med,33,https://www.notino.cz/blend-a-med/3d-white-arctic-fresh-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//blend-a-med/8006540793039_01-o__230221.jpg
-Max White Sparkle Diamonds,Colgate,56,https://www.notino.cz/colgate/max-white-sparkle-diamonds-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//colgate/8718951314795_01-o__200402.jpg
-Whitening Herbal,MEDIBLANC,306,https://www.notino.cz/mediblanc/whitening-herbal-bylinna-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300538166-o__221027.jpg
-Dental Care,Weleda,127,https://www.notino.cz/weleda/dental-care-zubni-pasta-s-morskou-soli/,https://cdn.notinoimg.com/list_2k//weleda/4001638098090_01-o__230809.jpg
-The Mints Classic Strong,Marvis,106,https://www.notino.cz/marvis/classic-strong-mint-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111701_01-o__171120.jpg
-Repair & Protect Extra Fresh,Sensodyne,140,https://www.notino.cz/sensodyne/repair-protect-extra-fresh-zubni-pasta-pro-ochranu-zubu-a-dasni/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563103482_01-o__210908.jpg
-The Mints Cinnamon,Marvis,116,https://www.notino.cz/marvis/cinnamon-mint-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111763_01-o__171120.jpg
-The Mints Aquatic,Marvis,109,https://www.notino.cz/marvis/aquatic-mint-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111725_01-o__171120.jpg
-Whitening Smokers Mint,Marvis,283,https://www.notino.cz/marvis/smokers-whitening-mint-belici-zubni-pasta-pro-kuraky/,https://cdn.notinoimg.com/list_2k//marvis/8004395111817_01-o__200211.jpg
-Fluoride,Sensodyne,100,https://www.notino.cz/sensodyne/fluoride-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//sensodyne/4047400470350_01-o__140401.jpg
-Black Forest,Marvis,208,https://www.notino.cz/marvis/marvis-black-forest-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111633_01-o__190911.jpg
-White Now Men Super Pure,Signal,84,https://www.notino.cz/signal/white-now-men-super-pure-zubni-pasta-pro-muze-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//signal/8710908135835_01-o__230216.jpg
-Repair & Protect Whitening,Sensodyne,141,https://www.notino.cz/sensodyne/repair-protect-whitening-belici-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563103680_01-o__210908.jpg
-Enzycal 1450,Curaprox,167,https://www.notino.cz/curaprox/enzycal-1450-zubni-pasta/,https://cdn.notinoimg.com/list_2k//curaprox/7612412070002_01-o__141218.jpg
-Kamchatkan Mineral,Natura Siberica,77,https://www.notino.cz/natura-siberica/kamchatkan-mineral-prirodni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437579_01-o__180801.jpg
-Sensitive,Elmex,110,https://www.notino.cz/elmex/sensitive-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//elmex/7610108059249_11-o__150518.jpg
-The Mints Amarelli Licorice,Marvis,106,https://www.notino.cz/marvis/amarelli-licorice-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111749_01-o__171120.jpg
-Dental Care,Weleda,118,https://www.notino.cz/weleda/dental-care-zubni-pasta/,https://cdn.notinoimg.com/list_2k//weleda/4001638098083_01-o__211012.jpg
-White Now Time Correct,Signal,84,https://www.notino.cz/signal/white-now-time-correct-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/8720181327186_01-o__230503.jpg
-Charcoal,White Glo,19,https://www.notino.cz/white-glo/charcoal-belici-zubni-pasta-s-aktivnim-uhlim-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000974_01-o__210524.jpg
-Advanced Active Shield,Biorepair,138,https://www.notino.cz/biorepair/advanced-active-shield-zubni-pasta/,https://cdn.notinoimg.com/list_2k//biorepair/8017331064078_01-o__210205.jpg
-Healthy Gums,MEDIBLANC,325,https://www.notino.cz/mediblanc/healthy-gums-zubni-pasta-pro-ochranu-dasni/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300530559-o__221027.jpg
-Gum Protection,Meridol,63,https://www.notino.cz/meridol/meridol-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//meridol/8718951459885_01-o__220524.jpg
-Rapid,Sensodyne,119,https://www.notino.cz/sensodyne/rapid-zubni-pasta-s-fluoridem-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//sensodyne/8596149002385_01-o__180406.jpg
-Whitening,Opalescence,85,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
-Whitening Sensitivity Relief,Opalescence,97,https://www.notino.cz/opalescence/sensitivity-relief-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//opalescence/883205029430_01-o__160513.jpg
-Extreme Whitening,Swissdent,315,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
-Triple Action Original Mint,Colgate,29,https://www.notino.cz/colgate/triple-action-duopack-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835971_01-o__230810.jpg
-Caries Protection Kids,Elmex,86,https://www.notino.cz/elmex/caries-protection-kids-zubni-pasta-pro-deti-73190/,https://cdn.notinoimg.com/list_2k//elmex/7610108056354_01-o__230215.jpg
-Original White,G.U.M,96,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
-Natural,Jack N’ Jill,134,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
-Mintperfekt Activ,Ziaja,49,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
-Natural Siberian 7 Northern Herbs,Natura Siberica,90,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
-Kids 0-6,Biorepair,67,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
-Professional Choice,White Glo,18,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
-Tooth Mousse,GC,494,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
-Natural Siberian Siberian Pearl,Natura Siberica,73,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
-Caries Protection,Elmex,104,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
-Whitening Mint,Marvis,79,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
-Junior 6-12 Years,Elmex,193,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
-Whitening,MEDIBLANC,110,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
-Sensitive Whitening,Elmex,102,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
-Dental Care,Weleda,130,https://www.notino.cz/weleda/dental-care-detsky-zubni-gel/,https://cdn.notinoimg.com/list_2k//weleda/4001638081863_01-o__121109.jpg
-Expert Black Whitening,Ecodenta,63,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
-Gum Protection,Meridol,245,https://www.notino.cz/meridol/meridol-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//meridol/8718951459885_01-o__220524.jpg
-Be You,Curaprox,97,https://www.notino.cz/curaprox/be-you-rising-star-regeneracni-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//curaprox/7612412429503_01-o__220225.jpg
-Professional Medical Herbs,Splat,84,https://www.notino.cz/splat/professional-medical-herbs-bioaktivni-zubni-pasta-pro-ochranu-zubu-a-dasni/,https://cdn.notinoimg.com/list_2k//splat/7640168930097_01-o__220908.jpg
-Parodont Expert,Meridol,172,https://www.notino.cz/meridol/parodont-expert-zubni-pasta-proti-krvaceni-dasni-a-parodontoze-297934/,https://cdn.notinoimg.com/list_2k//meridol/8718951132771_01-o__230807.jpg
-Orange Blossom Bloom,Marvis,205,https://www.notino.cz/marvis/marvis-orange-blossom-bloom-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111626_01-o__190911.jpg
-Biomed Gum Health,Splat,94,https://www.notino.cz/splat/biomed-gum-health-prirodni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//splat/2800015078395_01-o__220908.jpg
-Biomed Sensitive,Splat,91,https://www.notino.cz/splat/biomed-sensitive-bioaktivni-zubni-pasta-pro-snizeni-citlivosti-zubu-a-zdrave-dasne/,https://cdn.notinoimg.com/list_2k//splat/2800015078371_01-o__220908.jpg
-Enzycal 950,Curaprox,142,https://www.notino.cz/curaprox/enzycal-950-zubni-pasta/,https://cdn.notinoimg.com/list_2k//curaprox/7612412422436_01-o__150224.jpg
-Biomed Citrus Fresh,Splat,96,https://www.notino.cz/splat/biomed-citrus-fresh-zubni-pasta-pro-ochranu-dasni/,https://cdn.notinoimg.com/list_2k//splat/2800015078364_01-o__220908.jpg
-Antiplaca,DentYucral,113,https://www.notino.cz/dentyucral/antiplaca-belici-zubni-pudr/,https://cdn.notinoimg.com/list_2k//dentyucral/8470002079021_01-o__220818.jpg
-Anti-Caries Professional,Elmex,148,https://www.notino.cz/elmex/anti-caries-professional-zubni-pasta-chranici-pred-zubnim-kazem/,https://cdn.notinoimg.com/list_2k//elmex/8718951279551_01-o__220203.jpg
-Professional Ultracomplex,Splat,105,https://www.notino.cz/splat/professional-ultracomplex-bioaktivni-zubni-pasta-pro-komplexni-peci-a-beleni-citlivych-zubu/,https://cdn.notinoimg.com/list_2k//splat/7640168930172_01-o__220909.jpg
-Gentle,Swissdent,188,https://www.notino.cz/swissdent/gentle-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190020_01-o_02__130304.jpg
-Gum Protection Whitening,Meridol,98,https://www.notino.cz/meridol/dental-care-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//meridol/8718951560352_01-o__230807.jpg
-Black is White,Curaprox,519,https://www.notino.cz/curaprox/black-is-white-belici-pasta-s-aktivnim-uhlim-a-hydroxyapatitem/,https://cdn.notinoimg.com/list_2k//curaprox/7612412423822_01-o__170127.jpg
-Smile Aloe Vera,White Pearl,58,https://www.notino.cz/white-pearl/smile-aloe-vera-zubni-pasta-pro-zdrave-zuby-a-dasne/,https://cdn.notinoimg.com/list_2k//white-pearl/whpalow_ktps10_01__150611.jpg
-Natural Extracts Aloe Vera,Colgate,71,https://www.notino.cz/colgate/natural-extracts-aloe-vera-bylinna-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835834_01-o__230630.jpg
-Extra Fresh and Remineralising,Ecodenta,76,https://www.notino.cz/ecodenta/extra-fresh-and-remineralising-remineralizacni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001004913_01__220606.jpg
-Sensi-Relief,MEDIBLANC,300,https://www.notino.cz/mediblanc/sensi-relief-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275382412-o__221027.jpg
-NanoCare,White Pearl,125,https://www.notino.cz/white-pearl/nanocare-zubni-pasta/,https://cdn.notinoimg.com/list_2k//white-pearl/whpnanw_ktps10_01__150609.jpg
-Herbal Fresh,Signal,32,https://www.notino.cz/signal/herbal-fresh-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/sighrfu_ktps05__150511.jpg
-Sensitivity & Gum Whitening,Sensodyne,127,https://www.notino.cz/sensodyne/sensitivity-gum-whitening-belici-zubni-pasta-pro-ochranu-zubu-a-dasni-577855/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563050816_01-o__210908.jpg
-Glo Express White,White Glo,137,https://www.notino.cz/white-glo/charcoal/,https://cdn.notinoimg.com/list_2k//white-glo/9319871002770_01-o__231109.jpg
-ADS DNA 720,Curasept,167,https://www.notino.cz/curasept/ads-dna-720-gelova-zubni-pasta/,https://cdn.notinoimg.com/list_2k//curasept/8056746073411_01-o__240503.jpg
-Natural Toothpaste White,BEN&ANNA,145,https://www.notino.cz/benanna/natural-toothpaste-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//benanna/4260491220516_01-o__221101.jpg
-Max White White Crystals,Colgate,54,https://www.notino.cz/colgate/max-white-white-crystals-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8718951313835_01-o__240229.jpg
-Black is White,Curaprox,182,https://www.notino.cz/curaprox/black-is-white-kosmeticka-sada-ii/,https://cdn.notinoimg.com/list_2k//curaprox/7612412424614_01-o__170314.jpg
-Whitening,Opalescence,85,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
-Whitening Sensitivity Relief,Opalescence,97,https://www.notino.cz/opalescence/sensitivity-relief-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//opalescence/883205029430_01-o__160513.jpg
-Extreme Whitening,Swissdent,315,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
-Triple Action Original Mint,Colgate,29,https://www.notino.cz/colgate/triple-action-duopack-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835971_01-o__230810.jpg
-Caries Protection Kids,Elmex,86,https://www.notino.cz/elmex/caries-protection-kids-zubni-pasta-pro-deti-73190/,https://cdn.notinoimg.com/list_2k//elmex/7610108056354_01-o__230215.jpg
-Original White,G.U.M,96,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
-Natural,Jack N’ Jill,134,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
-Mintperfekt Activ,Ziaja,49,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
-Natural Siberian 7 Northern Herbs,Natura Siberica,90,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
-Kids 0-6,Biorepair,67,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
-Professional Choice,White Glo,18,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
-Tooth Mousse,GC,494,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
-Natural Siberian Siberian Pearl,Natura Siberica,73,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
-Caries Protection,Elmex,104,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
-Whitening Mint,Marvis,79,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
-Junior 6-12 Years,Elmex,193,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
-Whitening,MEDIBLANC,110,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
-Sensitive Whitening,Elmex,102,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
-Dental Care,Weleda,130,https://www.notino.cz/weleda/dental-care-detsky-zubni-gel/,https://cdn.notinoimg.com/list_2k//weleda/4001638081863_01-o__121109.jpg
-Expert Black Whitening,Ecodenta,63,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
-Gum Protection,Meridol,245,https://www.notino.cz/meridol/meridol-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//meridol/8718951459885_01-o__220524.jpg
-Be You,Curaprox,97,https://www.notino.cz/curaprox/be-you-rising-star-regeneracni-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//curaprox/7612412429503_01-o__220225.jpg
-Professional Medical Herbs,Splat,84,https://www.notino.cz/splat/professional-medical-herbs-bioaktivni-zubni-pasta-pro-ochranu-zubu-a-dasni/,https://cdn.notinoimg.com/list_2k//splat/7640168930097_01-o__220908.jpg
-Whitening,Opalescence,85,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
-Whitening Sensitivity Relief,Opalescence,97,https://www.notino.cz/opalescence/sensitivity-relief-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//opalescence/883205029430_01-o__160513.jpg
-Extreme Whitening,Swissdent,315,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
-Triple Action Original Mint,Colgate,29,https://www.notino.cz/colgate/triple-action-duopack-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835971_01-o__230810.jpg
-Caries Protection Kids,Elmex,86,https://www.notino.cz/elmex/caries-protection-kids-zubni-pasta-pro-deti-73190/,https://cdn.notinoimg.com/list_2k//elmex/7610108056354_01-o__230215.jpg
-Original White,G.U.M,96,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
-Natural,Jack N’ Jill,134,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
-Mintperfekt Activ,Ziaja,49,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
-Natural Siberian 7 Northern Herbs,Natura Siberica,90,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
-Kids 0-6,Biorepair,67,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
-Professional Choice,White Glo,18,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
-Tooth Mousse,GC,494,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
-Natural Siberian Siberian Pearl,Natura Siberica,73,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
-Caries Protection,Elmex,104,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
-Whitening Mint,Marvis,79,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
-Junior 6-12 Years,Elmex,193,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
-Whitening,MEDIBLANC,110,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
-Sensitive Whitening,Elmex,102,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
-Dental Care,Weleda,130,https://www.notino.cz/weleda/dental-care-detsky-zubni-gel/,https://cdn.notinoimg.com/list_2k//weleda/4001638081863_01-o__121109.jpg
-Expert Black Whitening,Ecodenta,63,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
-Gum Protection,Meridol,245,https://www.notino.cz/meridol/meridol-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//meridol/8718951459885_01-o__220524.jpg
-Be You,Curaprox,97,https://www.notino.cz/curaprox/be-you-rising-star-regeneracni-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//curaprox/7612412429503_01-o__220225.jpg
-Professional Medical Herbs,Splat,84,https://www.notino.cz/splat/professional-medical-herbs-bioaktivni-zubni-pasta-pro-ochranu-zubu-a-dasni/,https://cdn.notinoimg.com/list_2k//splat/7640168930097_01-o__220908.jpg
-Whitening,Opalescence,85,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
-Whitening Sensitivity Relief,Opalescence,97,https://www.notino.cz/opalescence/sensitivity-relief-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//opalescence/883205029430_01-o__160513.jpg
-Extreme Whitening,Swissdent,315,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
-Triple Action Original Mint,Colgate,29,https://www.notino.cz/colgate/triple-action-duopack-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835971_01-o__230810.jpg
-Caries Protection Kids,Elmex,86,https://www.notino.cz/elmex/caries-protection-kids-zubni-pasta-pro-deti-73190/,https://cdn.notinoimg.com/list_2k//elmex/7610108056354_01-o__230215.jpg
-Original White,G.U.M,96,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
-Natural,Jack N’ Jill,134,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
-Mintperfekt Activ,Ziaja,49,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
-Natural Siberian 7 Northern Herbs,Natura Siberica,90,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
-Kids 0-6,Biorepair,67,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
-Professional Choice,White Glo,18,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
-Tooth Mousse,GC,494,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
-Natural Siberian Siberian Pearl,Natura Siberica,73,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
-Caries Protection,Elmex,104,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
-Whitening Mint,Marvis,79,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
-Junior 6-12 Years,Elmex,193,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
-Whitening,MEDIBLANC,110,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
-Sensitive Whitening,Elmex,102,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
-Dental Care,Weleda,130,https://www.notino.cz/weleda/dental-care-detsky-zubni-gel/,https://cdn.notinoimg.com/list_2k//weleda/4001638081863_01-o__121109.jpg
-Expert Black Whitening,Ecodenta,63,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
-Gum Protection,Meridol,245,https://www.notino.cz/meridol/meridol-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//meridol/8718951459885_01-o__220524.jpg
-Be You,Curaprox,97,https://www.notino.cz/curaprox/be-you-rising-star-regeneracni-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//curaprox/7612412429503_01-o__220225.jpg
-Professional Medical Herbs,Splat,84,https://www.notino.cz/splat/professional-medical-herbs-bioaktivni-zubni-pasta-pro-ochranu-zubu-a-dasni/,https://cdn.notinoimg.com/list_2k//splat/7640168930097_01-o__220908.jpg
-Whitening,MEDIBLANC,193,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
-Whitening,Opalescence,85,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
-Healthy Gums,MEDIBLANC,325,https://www.notino.cz/mediblanc/healthy-gums-zubni-pasta-pro-ochranu-dasni/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300530559-o__221027.jpg
-Whitening Sensitivity Relief,Opalescence,97,https://www.notino.cz/opalescence/sensitivity-relief-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//opalescence/883205029430_01-o__160513.jpg
-Extreme Whitening,Swissdent,315,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
-Gum & Enamel Repair Fresh White,Oral B,112,https://www.notino.cz/oral-b/gum-enamel-repair-extra-fresh-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//oral-b/8001090794413_01-o__240304.jpg
-Whitening Herbal,MEDIBLANC,306,https://www.notino.cz/mediblanc/whitening-herbal-bylinna-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300538166-o__221027.jpg
-Triple Action Original Mint,Colgate,29,https://www.notino.cz/colgate/triple-action-duopack-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835971_01-o__230810.jpg
-Caries Protection Kids,Elmex,86,https://www.notino.cz/elmex/caries-protection-kids-zubni-pasta-pro-deti-73190/,https://cdn.notinoimg.com/list_2k//elmex/7610108056354_01-o__230215.jpg
-Original White,G.U.M,96,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
-Natural,Jack N’ Jill,134,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
-Mintperfekt Activ,Ziaja,49,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
-Teeth,NUK,165,https://www.notino.cz/nuk/teeth-sada-zubni-pecepro-deti/,https://cdn.notinoimg.com/list_2k//nuk/4008600215769_01__210818.jpg
-Natural Siberian 7 Northern Herbs,Natura Siberica,90,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
-Professional Choice,White Glo,18,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
-Kids 0-6,Biorepair,67,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
-Natural Siberian Siberian Pearl,Natura Siberica,73,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
-Tooth Mousse,GC,494,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
-Whitening Mint,Marvis,104,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
-Caries Protection,Elmex,110,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
-Sensitive Whitening,Elmex,79,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
-Junior 6-12 Years,Elmex,130,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
-Expert Black Whitening,Ecodenta,63,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
-Advanced White,Colgate,46,https://www.notino.cz/colgate/advanced-white-belici-pasta-proti-skvrnam-na-zubni-sklovine/,https://cdn.notinoimg.com/list_2k//colgate/8718951312173_01-o__240229.jpg
-Natural White,Sensodyne,131,https://www.notino.cz/sensodyne/natural-white-prirodni-zubni-pasta-s-fluoridem-5023268/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563121226_01-o__220601.jpg
-Complete Care,Meridol,146,https://www.notino.cz/meridol/complete-care-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//meridol/8718951478527_01-o__230807.jpg
-Micro-Granules,Signal,72,https://www.notino.cz/signal/micro-granules-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/sigmrcu_ktps10__150511.jpg
-Hemp Seed Oil,White Glo,148,https://www.notino.cz/white-glo/hemp-seed-oil-belici-zubni-pasta-s-kartackem/,https://cdn.notinoimg.com/list_2k//white-glo/9319871001711_01-o__211129.jpg
-Deep Fresh,Signal,58,https://www.notino.cz/signal/deep-fresh-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//signal/8717163093481_01-o__230306.jpg
-Enzycal Zero,Curaprox,142,https://www.notino.cz/curaprox/enzycal-zero-zubni-pasta/,https://cdn.notinoimg.com/list_2k//curaprox/7612412422849_01-o__150224.jpg
-Meswak,Eva,100,https://www.notino.cz/eva/meswak-belici-zubni-pudr-3-v-1/,https://cdn.notinoimg.com/list_2k//eva/6223001385370_01-o__211115.jpg
-Green Brilliant Whitening,Ecodenta,102,https://www.notino.cz/ecodenta/green-brilliant-whitening-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001333808_01-o__170112.jpg
-Herbal Toothpaste Passionfruit,Herbadent,153,https://www.notino.cz/herbadent/herbal-toothpaste-passionfruit-bylinna-zubni-pasta/,https://cdn.notinoimg.com/list_2k//herbadent/8594021372311_01-o__230131.jpg
-Daycare Protection Booster Herbal,Curasept,170,https://www.notino.cz/curasept/daycare-protection-booster-herbal-gelova-zubni-pasta/,https://cdn.notinoimg.com/list_2k//curasept/8056746073299_01-o__230511.jpg
-Sensitive CBD,Ecodenta,91,https://www.notino.cz/ecodenta/sensitive-cbd-bioaktivni-zubni-pasta-s-cbd/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001005811_01-o__230105.jpg
-Pronamel Whitening,Sensodyne,104,https://www.notino.cz/sensodyne/pronamel-whitening-belici-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//sensodyne/5999518582021_01-o__230315.jpg
-Mickey Toothpaste,Disney,75,https://www.notino.cz/disney/mickey-toothpaste-detska-zubni-pasta/,https://cdn.notinoimg.com/list_2k//disney/8056234640361_01-o__231108.jpg
-Black,BlanX,90,https://www.notino.cz/blanx/black-belici-zubni-pasta-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//blanx/8017331053386_01-o__210211.jpg
-Always Smiling 12m+,Chicco,348,https://www.notino.cz/chicco/always-smiling-12m-sada-zubni-pece-bluepro-deti/,https://cdn.notinoimg.com/list_2k//chicco/8058664022663_01__220712.jpg
-Advanced Senitivity,Biorepair,137,https://www.notino.cz/biorepair/advanced-senitivity-zubni-pasta-pro-citlive-zuby-pro-ochranu-zubu-a-dasni/,https://cdn.notinoimg.com/list_2k//biorepair/8017331077849_01-o__230906.jpg
-Toothpaste Good On Ya,HAAN,179,https://www.notino.cz/haan/toothpaste-good-on-ya-zubni-pasta-s-fluoridem-plnitelna/,https://cdn.notinoimg.com/list_2k//haan/5060669781066_01-o__230515.jpg
-Max White White Crystals,Colgate,82,https://www.notino.cz/colgate/max-white-white-crystals-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//colgate/8718951312845_01-o__200403.jpg
-Dental Care,Sylveco,131,https://www.notino.cz/sylveco/dental-care-prirodni-zubni-pasta-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//sylveco/5902249010688_01__170731.jpg
-Kids,Elgydium,105,https://www.notino.cz/elgydium/kids-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//elgydium/3577056022012_01-o__230712.jpg
-Oral Care Toothpaste,Chicco,91,https://www.notino.cz/chicco/oral-care-zubni-pasta-pro-deti-12-m/,https://cdn.notinoimg.com/list_2k//chicco/cicorad_ktps10_01__150803.jpg
-Travel Kit,Minions,93,https://www.notino.cz/minions/travel-kit-sada-zubni-pece-3ypro-deti/,https://cdn.notinoimg.com/list_2k//minions/8032979437992_01-o__220902.jpg
-Gum Protection,Ecodenta,104,https://www.notino.cz/ecodenta/gum-protection-zubni-pasta-s-tea-tree-oil/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001005538_01-o__240313.jpg
-Total Whitening XL,Colgate,113,https://www.notino.cz/colgate/total-whitening-xl-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8714789710358_01-o__240404.jpg
-Always Smiling Blue,Chicco,318,https://www.notino.cz/chicco/always-smiling-blue-sada-zubni-pece-12-mpro-deti/,https://cdn.notinoimg.com/list_2k//chicco/8058664047383_01__231124.jpg
-Always Smiling Green,Chicco,349,https://www.notino.cz/chicco/always-smiling-green-sada-zubni-pece-strawberrypro-deti/,https://cdn.notinoimg.com/list_2k//chicco/8058664022649_01__231124.jpg
-NanoCare Kids,White Pearl,115,https://www.notino.cz/white-pearl/white-pearl-nanocare-kids-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//white-pearl/8594069332964_01-o__190710.jpg
-Herbal+ Toothpaste,WOOM,136,https://www.notino.cz/woom/herbal-toothbrush-bylinna-zubni-pasta/,https://cdn.notinoimg.com/list_2k//woom/4751033920228_01-o__220629.jpg
-Spiderman Travel Kit,Marvel,102,https://www.notino.cz/marvel/spiderman-travel-kit-sada-zubni-pece-pro-deti/,https://cdn.notinoimg.com/list_2k//marvel/8032979436902_01__220725.jpg
-Fluor,Eva,110,https://www.notino.cz/eva/fluor-belici-zubni-pudr-3-v-1/,https://cdn.notinoimg.com/list_2k//eva/6223001385363_01-o__211115.jpg
-Anti Caries Anti Carries,Sensodyne,100,https://www.notino.cz/sensodyne/anti-caries-zubni-pasta-proti-zubnimu-kazu/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563096029_01-o__221027.jpg
-PAP Carbon Whitening,White Pearl,199,https://www.notino.cz/white-pearl/pap-carbon-whitening-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//white-pearl/8594069333275_01-o__230725.jpg
-Max Fresh Cooling Crystals,Colgate,82,https://www.notino.cz/colgate/max-fresh-cooling-crystals-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8718951313675_01-o__240312.jpg
-Desensitizing Enamel-Repair Shock Treatment,Biorepair,191,https://www.notino.cz/biorepair/treatment-of-sensitive-teeth-kosmeticka-sada-i/,https://cdn.notinoimg.com/list_2k//biorepair/brpderw_kset10__150318.jpg
-Little Siberica BIO,Natura Siberica,98,https://www.notino.cz/natura-siberica/little-siberica-bio-prirodni-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//natura-siberica/4743318147840_01-o__210401.jpg
-White Now Gold,Signal,96,https://www.notino.cz/signal/white-now-gold-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/8720181327155_01-o__230411.jpg
-Applemint,Brush Baby,96,https://www.notino.cz/brush-baby/applemint-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//brush_baby/5060178100587_01-o__230613.jpg
-Max White Expert Original,Colgate,190,https://www.notino.cz/colgate/max-white-expert-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/7509546064857_01-o__221125.jpg
-Kids,Signal,66,https://www.notino.cz/signal/kids-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//signal/8712561103077_01-o__221115.jpg
-Travel Set,Chicco,295,https://www.notino.cz/chicco/travel-set-sada-zubni-pece/,https://cdn.notinoimg.com/list_2k//chicco/8058664121229_01__231124.jpg
-Pure,TePe,138,https://www.notino.cz/tepe/pure-zubni-pasta-mata/,https://cdn.notinoimg.com/list_2k//tepe/7350121253933_01-o__240419.jpg
-Set Splat Duo,Splat,302,https://www.notino.cz/splat/set-duo-sadana-zuby/,https://cdn.notinoimg.com/list_2k//splat/7640168937140_01__220927.jpg
-Flavour Collection,Marvis,710,https://www.notino.cz/marvis/marvis-flavour-collection-kosmeticka-sada-iii/,https://cdn.notinoimg.com/list_2k//marvis/8004395111008_01-o__190904.jpg
-For Kids,Sylveco,125,https://www.notino.cz/sylveco/for-kids-detska-zubni-pasta/,https://cdn.notinoimg.com/list_2k//sylveco/5902249016208_01-o__211103.jpg
-Natural Toothpaste Sensitive,BEN&ANNA,135,https://www.notino.cz/benanna/natural-toothpaste-sensitive-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//benanna/4260491220523_01-o__221101.jpg
-Natural Extracts Charcoal + White,Colgate,89,https://www.notino.cz/colgate/natural-extracts-charcoal-white-belici-zubni-pasta-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//colgate/6920354822421_01-o__220801.jpg
-Extreme Travel Set,Swissdent,190,https://www.notino.cz/swissdent/extreme-travel-set-sada-zubni-pece/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190334_01-o__220830.jpg
-Whitening,MEDIBLANC,193,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
-Whitening,Opalescence,85,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
-Healthy Gums,MEDIBLANC,325,https://www.notino.cz/mediblanc/healthy-gums-zubni-pasta-pro-ochranu-dasni/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300530559-o__221027.jpg
-Whitening Sensitivity Relief,Opalescence,97,https://www.notino.cz/opalescence/sensitivity-relief-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//opalescence/883205029430_01-o__160513.jpg
-Extreme Whitening,Swissdent,315,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
-Gum & Enamel Repair Fresh White,Oral B,112,https://www.notino.cz/oral-b/gum-enamel-repair-extra-fresh-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//oral-b/8001090794413_01-o__240304.jpg
-Whitening Herbal,MEDIBLANC,306,https://www.notino.cz/mediblanc/whitening-herbal-bylinna-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300538166-o__221027.jpg
-Triple Action Original Mint,Colgate,29,https://www.notino.cz/colgate/triple-action-duopack-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835971_01-o__230810.jpg
-Caries Protection Kids,Elmex,86,https://www.notino.cz/elmex/caries-protection-kids-zubni-pasta-pro-deti-73190/,https://cdn.notinoimg.com/list_2k//elmex/7610108056354_01-o__230215.jpg
-Original White,G.U.M,96,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
-Natural,Jack N’ Jill,134,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
-Mintperfekt Activ,Ziaja,49,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
-Teeth,NUK,165,https://www.notino.cz/nuk/teeth-sada-zubni-pecepro-deti/,https://cdn.notinoimg.com/list_2k//nuk/4008600215769_01__210818.jpg
-Natural Siberian 7 Northern Herbs,Natura Siberica,90,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
-Professional Choice,White Glo,18,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
-Kids 0-6,Biorepair,67,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
-Natural Siberian Siberian Pearl,Natura Siberica,73,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
-Tooth Mousse,GC,494,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
-Whitening Mint,Marvis,104,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
-Caries Protection,Elmex,110,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
-Sensitive Whitening,Elmex,79,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
-Junior 6-12 Years,Elmex,130,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
-Expert Black Whitening,Ecodenta,63,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
-Whitening,MEDIBLANC,193,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
-Whitening,Opalescence,85,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
-Healthy Gums,MEDIBLANC,325,https://www.notino.cz/mediblanc/healthy-gums-zubni-pasta-pro-ochranu-dasni/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300530559-o__221027.jpg
-Whitening Sensitivity Relief,Opalescence,97,https://www.notino.cz/opalescence/sensitivity-relief-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//opalescence/883205029430_01-o__160513.jpg
-Extreme Whitening,Swissdent,315,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
-Gum & Enamel Repair Fresh White,Oral B,112,https://www.notino.cz/oral-b/gum-enamel-repair-extra-fresh-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//oral-b/8001090794413_01-o__240304.jpg
-Whitening Herbal,MEDIBLANC,306,https://www.notino.cz/mediblanc/whitening-herbal-bylinna-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300538166-o__221027.jpg
-Triple Action Original Mint,Colgate,29,https://www.notino.cz/colgate/triple-action-duopack-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835971_01-o__230810.jpg
-Caries Protection Kids,Elmex,86,https://www.notino.cz/elmex/caries-protection-kids-zubni-pasta-pro-deti-73190/,https://cdn.notinoimg.com/list_2k//elmex/7610108056354_01-o__230215.jpg
-Original White,G.U.M,96,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
-Natural,Jack N’ Jill,134,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
-Mintperfekt Activ,Ziaja,49,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
-Teeth,NUK,165,https://www.notino.cz/nuk/teeth-sada-zubni-pecepro-deti/,https://cdn.notinoimg.com/list_2k//nuk/4008600215769_01__210818.jpg
-Natural Siberian 7 Northern Herbs,Natura Siberica,90,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
-Professional Choice,White Glo,18,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
-Kids 0-6,Biorepair,67,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
-Natural Siberian Siberian Pearl,Natura Siberica,73,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
-Tooth Mousse,GC,494,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
-Whitening Mint,Marvis,104,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
-Caries Protection,Elmex,110,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
-Sensitive Whitening,Elmex,79,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
-Junior 6-12 Years,Elmex,130,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
-Expert Black Whitening,Ecodenta,63,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
-Whitening,MEDIBLANC,193,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
-Whitening,Opalescence,85,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
-Healthy Gums,MEDIBLANC,325,https://www.notino.cz/mediblanc/healthy-gums-zubni-pasta-pro-ochranu-dasni/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300530559-o__221027.jpg
-Whitening Sensitivity Relief,Opalescence,97,https://www.notino.cz/opalescence/sensitivity-relief-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//opalescence/883205029430_01-o__160513.jpg
-Extreme Whitening,Swissdent,315,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
-Gum & Enamel Repair Fresh White,Oral B,112,https://www.notino.cz/oral-b/gum-enamel-repair-extra-fresh-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//oral-b/8001090794413_01-o__240304.jpg
-Whitening Herbal,MEDIBLANC,306,https://www.notino.cz/mediblanc/whitening-herbal-bylinna-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300538166-o__221027.jpg
-Triple Action Original Mint,Colgate,29,https://www.notino.cz/colgate/triple-action-duopack-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835971_01-o__230810.jpg
-Caries Protection Kids,Elmex,86,https://www.notino.cz/elmex/caries-protection-kids-zubni-pasta-pro-deti-73190/,https://cdn.notinoimg.com/list_2k//elmex/7610108056354_01-o__230215.jpg
-Original White,G.U.M,96,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
-Natural,Jack N’ Jill,134,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
-Mintperfekt Activ,Ziaja,49,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
-Teeth,NUK,165,https://www.notino.cz/nuk/teeth-sada-zubni-pecepro-deti/,https://cdn.notinoimg.com/list_2k//nuk/4008600215769_01__210818.jpg
-Natural Siberian 7 Northern Herbs,Natura Siberica,90,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
-Professional Choice,White Glo,18,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
-Kids 0-6,Biorepair,67,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
-Natural Siberian Siberian Pearl,Natura Siberica,73,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
-Tooth Mousse,GC,494,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
-Whitening Mint,Marvis,104,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
-Caries Protection,Elmex,110,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
-Sensitive Whitening,Elmex,79,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
-Junior 6-12 Years,Elmex,130,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
-Expert Black Whitening,Ecodenta,63,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
-Whitening,MEDIBLANC,193,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
-Whitening,Opalescence,85,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
-Healthy Gums,MEDIBLANC,325,https://www.notino.cz/mediblanc/healthy-gums-zubni-pasta-pro-ochranu-dasni/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300530559-o__221027.jpg
-Whitening Sensitivity Relief,Opalescence,97,https://www.notino.cz/opalescence/sensitivity-relief-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//opalescence/883205029430_01-o__160513.jpg
-Extreme Whitening,Swissdent,315,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
-Gum & Enamel Repair Fresh White,Oral B,112,https://www.notino.cz/oral-b/gum-enamel-repair-extra-fresh-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//oral-b/8001090794413_01-o__240304.jpg
-Whitening Herbal,MEDIBLANC,306,https://www.notino.cz/mediblanc/whitening-herbal-bylinna-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300538166-o__221027.jpg
-Triple Action Original Mint,Colgate,29,https://www.notino.cz/colgate/triple-action-duopack-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835971_01-o__230810.jpg
-Caries Protection Kids,Elmex,86,https://www.notino.cz/elmex/caries-protection-kids-zubni-pasta-pro-deti-73190/,https://cdn.notinoimg.com/list_2k//elmex/7610108056354_01-o__230215.jpg
-Original White,G.U.M,96,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
-Natural,Jack N’ Jill,134,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
-Mintperfekt Activ,Ziaja,49,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
-Teeth,NUK,165,https://www.notino.cz/nuk/teeth-sada-zubni-pecepro-deti/,https://cdn.notinoimg.com/list_2k//nuk/4008600215769_01__210818.jpg
-Natural Siberian 7 Northern Herbs,Natura Siberica,90,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
-Professional Choice,White Glo,18,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
-Kids 0-6,Biorepair,67,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
-Natural Siberian Siberian Pearl,Natura Siberica,73,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
-Tooth Mousse,GC,494,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
-Whitening Mint,Marvis,104,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
-Caries Protection,Elmex,110,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
-Sensitive Whitening,Elmex,79,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
-Junior 6-12 Years,Elmex,130,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
-Expert Black Whitening,Ecodenta,63,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
-Whitening,Opalescence,85,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
-Whitening Sensitivity Relief,Opalescence,97,https://www.notino.cz/opalescence/sensitivity-relief-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//opalescence/883205029430_01-o__160513.jpg
-Extreme Whitening,Swissdent,315,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
-Triple Action Original Mint,Colgate,29,https://www.notino.cz/colgate/triple-action-duopack-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835971_01-o__230810.jpg
-Caries Protection Kids,Elmex,86,https://www.notino.cz/elmex/caries-protection-kids-zubni-pasta-pro-deti-73190/,https://cdn.notinoimg.com/list_2k//elmex/7610108056354_01-o__230215.jpg
-Original White,G.U.M,96,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
-Natural,Jack N’ Jill,134,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
-Mintperfekt Activ,Ziaja,49,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
-Natural Siberian 7 Northern Herbs,Natura Siberica,90,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
-Kids 0-6,Biorepair,67,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
-Professional Choice,White Glo,18,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
-Tooth Mousse,GC,494,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
-Natural Siberian Siberian Pearl,Natura Siberica,73,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
-Caries Protection,Elmex,104,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
-Whitening Mint,Marvis,79,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
-Junior 6-12 Years,Elmex,193,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
-Whitening,MEDIBLANC,110,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
-Sensitive Whitening,Elmex,102,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
-Dental Care,Weleda,130,https://www.notino.cz/weleda/dental-care-detsky-zubni-gel/,https://cdn.notinoimg.com/list_2k//weleda/4001638081863_01-o__121109.jpg
-Expert Black Whitening,Ecodenta,63,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
-Gum Protection,Meridol,245,https://www.notino.cz/meridol/meridol-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//meridol/8718951459885_01-o__220524.jpg
-Be You,Curaprox,97,https://www.notino.cz/curaprox/be-you-rising-star-regeneracni-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//curaprox/7612412429503_01-o__220225.jpg
-Professional Medical Herbs,Splat,84,https://www.notino.cz/splat/professional-medical-herbs-bioaktivni-zubni-pasta-pro-ochranu-zubu-a-dasni/,https://cdn.notinoimg.com/list_2k//splat/7640168930097_01-o__220908.jpg
-Whitening,Opalescence,85,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
-Whitening Sensitivity Relief,Opalescence,97,https://www.notino.cz/opalescence/sensitivity-relief-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//opalescence/883205029430_01-o__160513.jpg
-Extreme Whitening,Swissdent,315,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
-Triple Action Original Mint,Colgate,29,https://www.notino.cz/colgate/triple-action-duopack-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835971_01-o__230810.jpg
-Caries Protection Kids,Elmex,86,https://www.notino.cz/elmex/caries-protection-kids-zubni-pasta-pro-deti-73190/,https://cdn.notinoimg.com/list_2k//elmex/7610108056354_01-o__230215.jpg
-Original White,G.U.M,96,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
-Natural,Jack N’ Jill,134,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
-Mintperfekt Activ,Ziaja,49,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
-Natural Siberian 7 Northern Herbs,Natura Siberica,90,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
-Kids 0-6,Biorepair,67,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
-Professional Choice,White Glo,18,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
-Tooth Mousse,GC,494,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
-Natural Siberian Siberian Pearl,Natura Siberica,73,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
-Caries Protection,Elmex,104,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
-Whitening Mint,Marvis,79,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
-Junior 6-12 Years,Elmex,193,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
-Whitening,MEDIBLANC,110,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
-Sensitive Whitening,Elmex,102,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
-Dental Care,Weleda,130,https://www.notino.cz/weleda/dental-care-detsky-zubni-gel/,https://cdn.notinoimg.com/list_2k//weleda/4001638081863_01-o__121109.jpg
-Expert Black Whitening,Ecodenta,63,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
-Gum Protection,Meridol,245,https://www.notino.cz/meridol/meridol-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//meridol/8718951459885_01-o__220524.jpg
-Be You,Curaprox,97,https://www.notino.cz/curaprox/be-you-rising-star-regeneracni-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//curaprox/7612412429503_01-o__220225.jpg
-Professional Medical Herbs,Splat,84,https://www.notino.cz/splat/professional-medical-herbs-bioaktivni-zubni-pasta-pro-ochranu-zubu-a-dasni/,https://cdn.notinoimg.com/list_2k//splat/7640168930097_01-o__220908.jpg
-Natural Toothpaste White Fluoride,BEN&ANNA,145,https://www.notino.cz/benanna/natural-toothpaste-white-fluoride-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//benanna/4260491220943_01.-o__221101.jpg
-Natural White Charcoal Whitening,Beverly Hills Formula,269,https://www.notino.cz/beverly-hills-formula/natural-white-belici-zubni-pasta-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//beverly-hills-formula/5020105003923_01-o__220912.jpg
-White & Gloss,Perl Weiss,135,https://www.notino.cz/perl-weiss/white-gloss-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//perl_weiss/4008890009314_01__240111.jpg
-The Mints Jasmin,Marvis,297,https://www.notino.cz/marvis/the-mints-jasmin-sada-na-zuby/,https://cdn.notinoimg.com/list_2k//marvis/8004395112258_01-o__240318.jpg
-All In One,Yotuel,372,https://www.notino.cz/yotuel/all-in-one-belici-zubni-krem/,https://cdn.notinoimg.com/list_2k//yotuel/yotaiow_ktps20__150428.jpg
-Professional White Range,Beverly Hills Formula,326,https://www.notino.cz/beverly-hills-formula/professional-white-range-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//beverly-hills-formula/5020105003138_01-o__180326.jpg
-Baby Shark,Corsair,51,https://www.notino.cz/corsair/baby-shark-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//corsair/5013692251235_01__231002.jpg
-Night & Day,White Glo,140,https://www.notino.cz/white-glo/night-day-kosmeticka-sada-i/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000226_01-o__220624.jpg
-Glitter Gold&Black,Beverly Hills Formula,157,https://www.notino.cz/beverly-hills-formula/glitter-goldblack-belici-zubni-pasta-vegan/,https://cdn.notinoimg.com/list_2k//beverly-hills-formula/5020105004326_01-o__240423.jpg
-Toothpaste Wild Berry,BEN&ANNA,103,https://www.notino.cz/benanna/toothpaste-wild-berry-prirodni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//benanna/4260491223036_01-o__230331.jpg
-Gift Sets Great Joyful,HAAN,655,https://www.notino.cz/haan/gift-sets-great-aquamarine-darkova-sada-hyva-meininki/,https://cdn.notinoimg.com/list_2k//haan/5060917123549_01-o__230619.jpg
-Sensitive Forte,White Glo,158,https://www.notino.cz/white-glo/sensitive-forte-sada-zubni-pece/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000653_01-o__210524.jpg
-Hydral,G.U.M,145,https://www.notino.cz/gum/hydral-hydratacni-gel-na-zuby-jazyk-a-dasne/,https://cdn.notinoimg.com/list_2k//gum/gumhydu_ktps10__150309.jpg
-Toothpaste Coco Mania,BEN&ANNA,112,https://www.notino.cz/benanna/toothpaste-coco-mania-prirodni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//benanna/4260491223043_01-o__230331.jpg
-Toothpaste Black,BEN&ANNA,105,https://www.notino.cz/benanna/toothpaste-black-prirodni-zubni-pasta-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//benanna/4260491223012_01-o__230331.jpg
-Micellar,White Glo,120,https://www.notino.cz/white-glo/micellar-sada-zubni-pece/,https://cdn.notinoimg.com/list_2k//white-glo/9319871001391_01-o__230606.jpg
-Perfect White Gold,Beverly Hills Formula,166,https://www.notino.cz/beverly-hills-formula/perfect-white-gold-belici-zubni-pasta-s-casteckami-zlata/,https://cdn.notinoimg.com/list_2k//beverly-hills-formula/bevpwgw_ktps10_01__160503.jpg
-O3X Toothpaste,BlanX,169,https://www.notino.cz/blanx/o3x-oxygen-power-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//blanx/8017331065891_01-o__190919.jpg
-Natural,Jack N’ Jill,188,https://www.notino.cz/jack-n-jill/natural-sada-zubni-pecepro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657011027_01-o__230602.jpg
-Complete 7 + White,Blend-a-med,81,https://www.notino.cz/blend-a-med/complete-7-white-zubni-pasta-pro-kompletni-ochranu-zubu/,https://cdn.notinoimg.com/list_2k//blend-a-med/blecpww_ktps10_01__150925.jpg
-Peribioma Pro,Biorepair,368,https://www.notino.cz/biorepair/peribioma-pro-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//biorepair/8017331064115_01-o__220530.jpg
-Black Lux,Curasept,178,https://www.notino.cz/curasept/black-lux-cerna-belici-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//curasept/8056746071998_01-o__220218.jpg
-Probiotic,White Glo,199,https://www.notino.cz/white-glo/probiotic-sada-zubni-pece/,https://cdn.notinoimg.com/list_2k//white-glo/9319871001506_00-o__230606.jpg
-Baby,Ziaja,38,https://www.notino.cz/ziaja/ziajka-zubni-gel-pro-deti/,https://cdn.notinoimg.com/list_2k//ziaja/5901887008392-o__160428.jpg
-Family Whitening,WOOM,90,https://www.notino.cz/woom/family-whitening-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//woom/8420075180346_01-o__220830.jpg
-Gingival Set,Vitis,302,https://www.notino.cz/vitis/gingival-darkova-sada/,https://cdn.notinoimg.com/list_2k//vitis/2800010517943_01-o__220926.jpg
-Gingival Pro,WOOM,160,https://www.notino.cz/woom/gingival-pro-posilujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//woom/4751033921089_01-o__230504.jpg
-Total Mouth Detox,White Glo,171,https://www.notino.cz/white-glo/total-mouth-detox-sada-pro-beleni-zubu/,https://cdn.notinoimg.com/list_2k//white-glo/9319871001025_01-o__210524.jpg
-Oral Care Set,Chicco,249,https://www.notino.cz/chicco/oral-care-set-sada-zubni-pece-pro-miminka/,https://cdn.notinoimg.com/list_2k//chicco/8058664155798_01__231124.jpg
-Gift Sets Great Aquamarine,HAAN,549,https://www.notino.cz/haan/gift-sets-great-aquamarine-darkova-sada-6877842/,https://cdn.notinoimg.com/list_2k//haan/5060917123525_01-o__230619.jpg
-Green Sensitivity Relief,Ecodenta,66,https://www.notino.cz/ecodenta/green-sensitivity-relief-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001333884_01-o__170112.jpg
-Daily Care Essentials,Blue M,769,https://www.notino.cz/blue-m/daily-care-essentials-darkova-sadana-zuby/,https://cdn.notinoimg.com/list_2k//bluem/787790838036_01-o__211217.jpg
-Charcoal,Blend-a-med,69,https://www.notino.cz/blend-a-med/charcoal-zubni-pasta-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//blend-a-med/8001841825519_01-o__220816.jpg
-GTS2066+WT3500 Exclusive Set,Dr. Mayer,2 299,https://www.notino.cz/dr-mayer/bundle-darkova-sada/,https://cdn.notinoimg.com/list_2k//dr_mayer/8591205717791_01__211124.jpg
-Medium,Vitis,302,https://www.notino.cz/vitis/medium-zubni-kartacek-mini-zubni-pasta/,https://cdn.notinoimg.com/list_2k//vitis/8427426006591_01-o__230202.jpg
-Natural Elements Integral 8 Camomile,Signal,71,https://www.notino.cz/signal/natural-elements-integral-8-camomile-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/8720181230585_01-o__220812.jpg
-AC Milan Oral Hygiene Gift Set,EP Line,309,https://www.notino.cz/ep-line/ac-milan-oral-hygiene-gift-set-darkova-sadapro-deti/,https://cdn.notinoimg.com/list_2k//ep-line/8029241131962_01__231120.jpg
-Gift Sets The core four - Serenity,HAAN,729,https://www.notino.cz/haan/gift-sets-the-core-four-serenity-darkova-sada/,https://cdn.notinoimg.com/list_2k//haan/5060917123532_01-o__230619.jpg
-White & Charcoal,Perl Weiss,151,https://www.notino.cz/perl-weiss/white-charcoal-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//perl_weiss/4008890009154_01__240111.jpg
-CBD Charcoal Whitening,White Pearl,198,https://www.notino.cz/white-pearl/cbd-charcoal-whitening-belici-zubni-pasta-s-aktivnim-uhlim-s-cbd/,https://cdn.notinoimg.com/list_2k//white-pearl/8594069333336_01-o__230725.jpg
-Inter Oral Hygiene Gift Set,EP Line,322,https://www.notino.cz/ep-line/inter-oral-hygiene-gift-set-darkova-sadapro-deti/,https://cdn.notinoimg.com/list_2k//ep-line/8029241132006_01__231120.jpg
-Triple Action Xtra White,Colgate,65,https://www.notino.cz/colgate/triple-action-xtra-white-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//colgate/8718951294721_01-o__200212.jpg
-Toothpaste,Baby Anthyllis,127,https://www.notino.cz/baby-anthyllis/toothpaste-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//baby_anthyllis/8002849910191_01-o__230629.jpg
-Kids,Tołpa,30,https://www.notino.cz/tolpa/kids-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//tolpa/5902719419256_01-o__210414.jpg
-Total Charcoal,Colgate,71,https://www.notino.cz/colgate/total-charcoal-belici-zubni-pasta-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//colgate/6920354829406_01-o__221125.jpg
-Smile Beauty Care Gift Pack,My White Secret,999,https://www.notino.cz/my-white-secret/smile-beauty-care-sada-zubni-pecepro-zarivy-usmev/,https://cdn.notinoimg.com/list_2k//my-white-secret/5060548390082_07__200903.jpg
-Total Junior,Colgate,75,https://www.notino.cz/colgate/total-junior-zubni-pasta-pro-dukladne-vycisteni-zubu-a-ustni-dutiny-pro-deti/,https://cdn.notinoimg.com/list_2k//colgate/8718951433120_01-o__221125.jpg
-Black Lux Set,Curasept,439,https://www.notino.cz/curasept/black-lux-set-belici-sada-na-zuby/,https://cdn.notinoimg.com/list_2k//curasept/8056746071486_01-o__220218.jpg
-White Lux Set,Curasept,439,https://www.notino.cz/curasept/white-lux-set-belici-sada-na-zuby/,https://cdn.notinoimg.com/list_2k//curasept/8056746071493_01-o__220218.jpg
-3D White Delicate White,Blend-a-med,63,https://www.notino.cz/blend-a-med/3d-white-delicate-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//blend-a-med/8006540793183_01-o__230221.jpg
-Advanced White Volcanic Ash and Baking Soda,Colgate,53,https://www.notino.cz/colgate/advanced-white-volcanic-ash-and-baking-soda-prirodni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8718951555488_01-o__230426.jpg
-SensiVital,G.U.M,108,https://www.notino.cz/gum/sensivital-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//gum/gumsevu_ktps10__131107.jpg
-Herbal Original,Colgate,50,https://www.notino.cz/colgate/herbal-original-bylinna-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/clghrow_ktps10_01__160306.jpg
-Optima,Apis Natural Cosmetics,92,https://www.notino.cz/apis-natural-cosmetics/optima-zubni-pasta-s-mineraly-z-mrtveho-more/,https://cdn.notinoimg.com/list_2k//apis_natural_cosmetics/5901810041113_01-o__230906.jpg
-Aktiv,Lacalut,195,https://www.notino.cz/lacalut/aktiv-belici-zubni-pasta-pro-zdrave-zuby-a-dasne/,https://cdn.notinoimg.com/list_2k//lacalut/4016369656426_01-o__200110.jpg
-Integral 8 Actions,Signal,58,https://www.notino.cz/signal/integral-8-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/8720181117640_01-o__210611.jpg
-Juventus,EP Line,366,https://www.notino.cz/ep-line/juventus-darkova-sada/,https://cdn.notinoimg.com/list_2k//ep-line/8029241128917_01-o__211014.jpg
-KIDS Orange,MEDIBLANC,175,https://www.notino.cz/mediblanc/kids-orange-detska-zubni-pasta-2186097/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300533130_01-o__220114.jpg
-Daily rescue pack Serenity,HAAN,175,https://www.notino.cz/haan/daily-rescue-pack-serenity-darkova-sada-hyva-meininki/,https://cdn.notinoimg.com/list_2k//haan/5060917123518_01-o__230619.jpg
-Pure,TePe,162,https://www.notino.cz/tepe/pure-zubni-pasta/,https://cdn.notinoimg.com/list_2k//tepe/7350121254114_01-o__240419.jpg
-Purple Whitening Colour Corrector,Hello Coco,227,https://www.notino.cz/hello-coco/purple-whitening-colour-corrector-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//hello-coco/8588007594217_01-o__221004.jpg
-Original,Herbadent,47,https://www.notino.cz/herbadent/homeo-bylinna-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//herbadent/8594021370683_01-o__240131.jpg
+Product Name,Brand,Price,Discount,Link,Image
+Whitening,MEDIBLANC,193.0,-15.0,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
+Whitening,Opalescence,386.0,-15.0,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
+Healthy Gums,MEDIBLANC,85.0,-20.0,https://www.notino.cz/mediblanc/healthy-gums-zubni-pasta-pro-ochranu-dasni/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300530559-o__221027.jpg
+Whitening Sensitivity Relief,Opalescence,239.0,-15.0,https://www.notino.cz/opalescence/sensitivity-relief-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//opalescence/883205029430_01-o__160513.jpg
+Extreme Whitening,Swissdent,325.0,-15.0,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
+Gum & Enamel Repair Fresh White,Oral B,325.0,-15.0,https://www.notino.cz/oral-b/gum-enamel-repair-extra-fresh-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//oral-b/8001090794413_01-o__240304.jpg
+Whitening Herbal,MEDIBLANC,97.0,-15.0,https://www.notino.cz/mediblanc/whitening-herbal-bylinna-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300538166-o__221027.jpg
+Triple Action Original Mint,Colgate,236.0,-15.0,https://www.notino.cz/colgate/triple-action-duopack-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835971_01-o__230810.jpg
+Caries Protection Kids,Elmex,315.0,-15.0,https://www.notino.cz/elmex/caries-protection-kids-zubni-pasta-pro-deti-73190/,https://cdn.notinoimg.com/list_2k//elmex/7610108056354_01-o__230215.jpg
+Original White,G.U.M,315.0,0,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
+Natural,Jack N’ Jill,112.0,0,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
+Mintperfekt Activ,Ziaja,149.33,0,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
+Teeth,NUK,306.0,0,https://www.notino.cz/nuk/teeth-sada-zubni-pecepro-deti/,https://cdn.notinoimg.com/list_2k//nuk/4008600215769_01__210818.jpg
+Natural Siberian 7 Northern Herbs,Natura Siberica,306.0,0,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
+Professional Choice,White Glo,29.0,0,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
+Kids 0-6,Biorepair,38.67,0,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
+Natural Siberian Siberian Pearl,Natura Siberica,86.0,0,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
+Tooth Mousse,GC,172.0,0,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
+Whitening Mint,Marvis,96.0,0,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
+Caries Protection,Elmex,128.0,0,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
+Sensitive Whitening,Elmex,134.0,0,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
+Junior 6-12 Years,Elmex,270.0,0,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
+Expert Black Whitening,Ecodenta,49.0,0,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
+Gum Protection,Meridol,65.33,0,https://www.notino.cz/meridol/meridol-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//meridol/8718951459885_01-o__220524.jpg
+Advanced Intensive Night,Biorepair,139.0,-15.0,https://www.notino.cz/biorepair/intensive-night-repair-nocni-pece/,https://cdn.notinoimg.com/list_2k//biorepair/8017331064092_01-o__130724.jpg
+3D White Arctic Fresh,Blend-a-med,185.33,-15.0,https://www.notino.cz/blend-a-med/3d-white-arctic-fresh-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//blend-a-med/8006540793039_01-o__230221.jpg
+The Mints Aquatic,Marvis,33.0,-15.0,https://www.notino.cz/marvis/aquatic-mint-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111725_01-o__171120.jpg
+Whitening Herbal,MEDIBLANC,44.0,-15.0,https://www.notino.cz/mediblanc/whitening-herbal-bylinna-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300538166-o__221027.jpg
+The Mints Classic Strong,Marvis,109.0,-20.0,https://www.notino.cz/marvis/classic-strong-mint-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111701_01-o__171120.jpg
+Dental Care,Weleda,269.41,-20.0,https://www.notino.cz/weleda/dental-care-zubni-pasta-s-morskou-soli/,https://cdn.notinoimg.com/list_2k//weleda/4001638098090_01-o__230809.jpg
+The Mints Cinnamon,Marvis,306.0,-15.0,https://www.notino.cz/marvis/cinnamon-mint-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111763_01-o__171120.jpg
+Repair & Protect Extra Fresh,Sensodyne,306.0,-20.0,https://www.notino.cz/sensodyne/repair-protect-extra-fresh-zubni-pasta-pro-ochranu-zubu-a-dasni/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563103482_01-o__210908.jpg
+White Now Men Super Pure,Signal,106.0,-15.0,https://www.notino.cz/signal/white-now-men-super-pure-zubni-pasta-pro-muze-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//signal/8710908135835_01-o__230216.jpg
+Whitening Smokers Mint,Marvis,263.53,-15.0,https://www.notino.cz/marvis/smokers-whitening-mint-belici-zubni-pasta-pro-kuraky/,https://cdn.notinoimg.com/list_2k//marvis/8004395111817_01-o__200211.jpg
+Fluoride,Sensodyne,127.0,-15.0,https://www.notino.cz/sensodyne/fluoride-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//sensodyne/4047400470350_01-o__140401.jpg
+Black Forest,Marvis,169.33,-15.0,https://www.notino.cz/marvis/marvis-black-forest-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111633_01-o__190911.jpg
+Repair & Protect Whitening,Sensodyne,116.0,0,https://www.notino.cz/sensodyne/repair-protect-whitening-belici-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563103680_01-o__210908.jpg
+Enzycal 1450,Curaprox,215.29,0,https://www.notino.cz/curaprox/enzycal-1450-zubni-pasta/,https://cdn.notinoimg.com/list_2k//curaprox/7612412070002_01-o__141218.jpg
+Kamchatkan Mineral,Natura Siberica,140.0,0,https://www.notino.cz/natura-siberica/kamchatkan-mineral-prirodni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437579_01-o__180801.jpg
+White Now Time Correct,Signal,186.67,0,https://www.notino.cz/signal/white-now-time-correct-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/8720181327186_01-o__230503.jpg
+Sensitive,Elmex,84.0,0,https://www.notino.cz/elmex/sensitive-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//elmex/7610108059249_11-o__150518.jpg
+Gum Protection,Meridol,112.0,0,https://www.notino.cz/meridol/meridol-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//meridol/8718951459885_01-o__220524.jpg
+The Mints Amarelli Licorice,Marvis,283.0,0,https://www.notino.cz/marvis/amarelli-licorice-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111749_01-o__171120.jpg
+Dental Care,Weleda,332.94,0,https://www.notino.cz/weleda/dental-care-zubni-pasta/,https://cdn.notinoimg.com/list_2k//weleda/4001638098083_01-o__211012.jpg
+White Now Detox Charcoal,Signal,100.0,0,https://www.notino.cz/signal/white-now-detox-charcoal-belici-zubni-pasta-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//signal/8710604754200_01-o__200217.jpg
+Advanced Active Shield,Biorepair,133.33,0,https://www.notino.cz/biorepair/advanced-active-shield-zubni-pasta/,https://cdn.notinoimg.com/list_2k//biorepair/8017331064078_01-o__210205.jpg
+Healthy Gums,MEDIBLANC,208.0,0,https://www.notino.cz/mediblanc/healthy-gums-zubni-pasta-pro-ochranu-dasni/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300530559-o__221027.jpg
+Charcoal,White Glo,277.33,0,https://www.notino.cz/white-glo/charcoal-belici-zubni-pasta-s-aktivnim-uhlim-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000974_01-o__210524.jpg
+Rapid,Sensodyne,119.0,-20.0,https://www.notino.cz/sensodyne/rapid-zubni-pasta-s-fluoridem-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//sensodyne/8596149002385_01-o__180406.jpg
+Kids 0-6,Biorepair,158.67,-15.0,https://www.notino.cz/blanx/biorepair-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331035634_01-o__130828.jpg
+Special Extreme White,Splat,80.0,-15.0,https://www.notino.cz/splat/special-extreme-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//splat/7640168930271_01-o__220908.jpg
+Sensitive Whitening,Ecodenta,160.0,-15.0,https://www.notino.cz/ecodenta/expert-black-whitening-belici-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001003206_01-o__210809.jpg
+Sensitive Professional,Elmex,175.0,-15.0,https://www.notino.cz/elmex/sensitive-professional-zubni-pasta-pro-citlive-zuby-73517/,https://cdn.notinoimg.com/list_2k//elmex/7610108047536_01-o__140526.jpg
+Polar Night,Natura Siberica,233.33,-15.0,https://www.notino.cz/natura-siberica/polar-night-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174432253_01-o__180801.jpg
+Plus Parodontgel,Biorepair,88.0,-20.0,https://www.notino.cz/biorepair/plus-parodontal-pasta-posilujici-zubni-sklovinu-proti-parodontoze/,https://cdn.notinoimg.com/list_2k//biorepair/brpprgw_ktps15_01__170410.jpg
+Caries Protection,Elmex,88.0,-15.0,https://www.notino.cz/elmex/caries-protection-kosmeticka-sada-i/,https://cdn.notinoimg.com/list_2k//elmex/8714789994185_01-o__230109.jpg
+The Mints Anise,Marvis,145.0,-15.0,https://www.notino.cz/marvis/marvis-anise-mint-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111879_01-o__190911.jpg
+Girls,Pink Elephant,193.33,-15.0,https://www.notino.cz/pink-elephant/girls-darkova-sada-pro-deti-pink/,https://cdn.notinoimg.com/list_2k//pink_elephant/8588006040425_01__211015.jpg
+Special Blackwood,Splat,79.0,0,https://www.notino.cz/splat/special-blackwood-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//splat/7640168930288_01-o__220908.jpg
+Max White Ultra Multi Protect,Colgate,79.0,0,https://www.notino.cz/colgate/max-white-ultra-multi-protect-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8718951563544_01-o__230630.jpg
+3D White Cool Water,Blend-a-med,136.0,0,https://www.notino.cz/blend-a-med/3d-white-cool-water-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//blend-a-med/8006540793138_01-o__230221.jpg
+Natural Toothpaste Black,BEN&ANNA,181.33,0,https://www.notino.cz/benanna/natural-toothpaste-black-zubni-pasta-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//benanna/4260491220509_01-o__221101.jpg
+Gum And Sens Original,Parodontax,198.0,0,https://www.notino.cz/parodontax/gum-and-sens-original-pasta-pro-kompletni-ochranu-zubu-a-svezi-dech-5023273/,https://cdn.notinoimg.com/list_2k//parodontax/5054563120410_01-o__220427.jpg
+Natural Extracts Ultimate Fresh,Colgate,198.0,0,https://www.notino.cz/colgate/natural-extract-ultimate-fresh-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8718951131644_01-o__221128.jpg
+Extreme Whitening,Swissdent,93.0,0,https://www.notino.cz/swissdent/extreme-intenzivni-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/swdextw_ktps05__150402.jpg
+Plus Total Protection,Biorepair,244.71,0,https://www.notino.cz/biorepair/plus-protect-pasta-posilujici-zubni-sklovinu/,https://cdn.notinoimg.com/list_2k//biorepair/brpprow_ktps45_01__170616.jpg
+NanoCare Whitening,White Pearl,141.0,0,https://www.notino.cz/white-pearl/nanocare-whitening-zubni-pasta-s-nanocasticemi-zlata-a-aktivniho-uhli/,https://cdn.notinoimg.com/list_2k//white-pearl/8594069332834_02__170922.jpg
+Sensitive Professional Gentle Whitening,Elmex,141.0,0,https://www.notino.cz/elmex/sensitive-professional-gentle-whitening-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//elmex/8718951070905_11-o__160804.jpg
+Paroex,G.U.M,176.0,0,https://www.notino.cz/gum/paroex-zubni-gel-proti-parodontoze/,https://cdn.notinoimg.com/list_2k//gum/gumparu_ktps20__131107.jpg
+Kids 2+,Curaprox,234.67,0,https://www.notino.cz/curaprox/kids-2-strawberry-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//curaprox/7612412429473_01-o__220225.jpg
+Max White Charcoal,Colgate,143.0,0,https://www.notino.cz/colgate/max-white-charcoal-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8590232000722_01-o__221128.jpg
+Biomed Sensitive,Splat,286.0,0,https://www.notino.cz/splat/biomed-sensitive-bioaktivni-zubni-pasta-pro-snizeni-citlivosti-zubu-a-zdrave-dasne/,https://cdn.notinoimg.com/list_2k//splat/2800015078371_01-o__220908.jpg
+Professional Enamel Regeneration,Oral B,101.0,-20.0,https://www.notino.cz/oral-b/professional-regenerate-enamel-gentle-whitening-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//oral-b/8001090247582_01-o__220817.jpg
+Parodont Expert,Meridol,134.67,-15.0,https://www.notino.cz/meridol/parodont-expert-zubni-pasta-proti-krvaceni-dasni-a-parodontoze-297934/,https://cdn.notinoimg.com/list_2k//meridol/8718951132771_01-o__230807.jpg
+Orange Blossom Bloom,Marvis,172.0,-15.0,https://www.notino.cz/marvis/marvis-orange-blossom-bloom-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111626_01-o__190911.jpg
+Biomed Gum Health,Splat,229.33,-15.0,https://www.notino.cz/splat/biomed-gum-health-prirodni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//splat/2800015078395_01-o__220908.jpg
+Enzycal 950,Curaprox,205.0,-15.0,https://www.notino.cz/curaprox/enzycal-950-zubni-pasta/,https://cdn.notinoimg.com/list_2k//curaprox/7612412422436_01-o__150224.jpg
+Biomed Citrus Fresh,Splat,273.33,-15.0,https://www.notino.cz/splat/biomed-citrus-fresh-zubni-pasta-pro-ochranu-dasni/,https://cdn.notinoimg.com/list_2k//splat/2800015078364_01-o__220908.jpg
+Antiplaca,DentYucral,94.0,-15.0,https://www.notino.cz/dentyucral/antiplaca-belici-zubni-pudr/,https://cdn.notinoimg.com/list_2k//dentyucral/8470002079021_01-o__220818.jpg
+Anti-Caries Professional,Elmex,94.0,-15.0,https://www.notino.cz/elmex/anti-caries-professional-zubni-pasta-chranici-pred-zubnim-kazem/,https://cdn.notinoimg.com/list_2k//elmex/8718951279551_01-o__220203.jpg
+Professional Ultracomplex,Splat,142.0,-15.0,https://www.notino.cz/splat/professional-ultracomplex-bioaktivni-zubni-pasta-pro-komplexni-peci-a-beleni-citlivych-zubu/,https://cdn.notinoimg.com/list_2k//splat/7640168930172_01-o__220909.jpg
+Gentle,Swissdent,189.33,-20.0,https://www.notino.cz/swissdent/gentle-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190020_01-o_02__130304.jpg
+Gum Protection Whitening,Meridol,96.0,-20.0,https://www.notino.cz/meridol/dental-care-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//meridol/8718951560352_01-o__230807.jpg
+Herbal Fresh,Signal,96.0,0,https://www.notino.cz/signal/herbal-fresh-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/sighrfu_ktps05__150511.jpg
+Black is White,Curaprox,113.0,0,https://www.notino.cz/curaprox/black-is-white-belici-pasta-s-aktivnim-uhlim-a-hydroxyapatitem/,https://cdn.notinoimg.com/list_2k//curaprox/7612412423822_01-o__170127.jpg
+Smile Aloe Vera,White Pearl,226.0,0,https://www.notino.cz/white-pearl/smile-aloe-vera-zubni-pasta-pro-zdrave-zuby-a-dasne/,https://cdn.notinoimg.com/list_2k//white-pearl/whpalow_ktps10_01__150611.jpg
+Sensi-Relief,MEDIBLANC,148.0,0,https://www.notino.cz/mediblanc/sensi-relief-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275382412-o__221027.jpg
+Natural Extracts Aloe Vera,Colgate,197.33,0,https://www.notino.cz/colgate/natural-extracts-aloe-vera-bylinna-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/6920354835834_01-o__230630.jpg
+Extra Fresh and Remineralising,Ecodenta,105.0,0,https://www.notino.cz/ecodenta/extra-fresh-and-remineralising-remineralizacni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001004913_01__220606.jpg
+Pronamel Daily Protection,Sensodyne,105.0,0,https://www.notino.cz/sensodyne/pro-namel-zubni-pasta-chranici-zubni-sklovinu/,https://cdn.notinoimg.com/list_2k//sensodyne/5999518572138_01-o__221027.jpg
+NanoCare,White Pearl,188.0,0,https://www.notino.cz/white-pearl/nanocare-zubni-pasta/,https://cdn.notinoimg.com/list_2k//white-pearl/whpnanw_ktps10_01__150609.jpg
+Caries Protection Whitening,Elmex,419.0,0,https://www.notino.cz/elmex/caries-protection-whitening-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//elmex/8718951240858_11-o__190416.jpg
+Glo Express White,White Glo,98.0,0,https://www.notino.cz/white-glo/charcoal/,https://cdn.notinoimg.com/list_2k//white-glo/9319871002770_01-o__231109.jpg
+Sensitivity & Gum Whitening,Sensodyne,130.67,0,https://www.notino.cz/sensodyne/sensitivity-gum-whitening-belici-zubni-pasta-pro-ochranu-zubu-a-dasni-577855/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563050816_01-o__210908.jpg
+ADS DNA 720,Curasept,32.0,0,https://www.notino.cz/curasept/ads-dna-720-gelova-zubni-pasta/,https://cdn.notinoimg.com/list_2k//curasept/8056746073411_01-o__240503.jpg
+Natural Toothpaste White,BEN&ANNA,42.67,0,https://www.notino.cz/benanna/natural-toothpaste-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//benanna/4260491220516_01-o__221101.jpg
+Max White White Crystals,Colgate,54.0,-15.0,https://www.notino.cz/colgate/max-white-white-crystals-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8718951313835_01-o__240229.jpg
+Black is White,Curaprox,72.0,-15.0,https://www.notino.cz/curaprox/black-is-white-kosmeticka-sada-ii/,https://cdn.notinoimg.com/list_2k//curaprox/7612412424614_01-o__170314.jpg
+Green Multifunctional,Ecodenta,182.0,-20.0,https://www.notino.cz/ecodenta/green-multifunctional-zubni-pasta-pro-kompletni-ochranu-zubu/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001335314_01-o__170112.jpg
+Biosmalto Mousse,Curasept,182.0,-20.0,https://www.notino.cz/curasept/biosmalto-mousse-pro-obnoveni-zubni-skloviny/,https://cdn.notinoimg.com/list_2k//curasept/8056746071240_01-o__220202.jpg
+Expert,Perl Weiss,78.0,-20.0,https://www.notino.cz/perl-weiss/expert-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//perl_weiss/4008890009437_01__240111.jpg
+Max Fresh Cooling Crystals,Colgate,78.0,-15.0,https://www.notino.cz/colgate/max-fresh-cooling-crystals-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8718951313255_01-o__220524.jpg
+Pro Expert Deep Clean,Oral B,407.0,-15.0,https://www.notino.cz/oral-b/pro-expert-deep-clean-osvezujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//oral-b/8700216106733_01-o__230904.jpg
+Kids 6+,Curaprox,814.0,-15.0,https://www.notino.cz/curaprox/kids-6-watermelon-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//curaprox/7612412429480_01-o__211122.jpg
+Advanced Clean,Sensodyne,129.0,-20.0,https://www.notino.cz/sensodyne/advanced-clean-zubni-pasta-s-fluoridem-pro-kompletni-ochranu-zubu/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563014757_01-o__170106.jpg
+Propolis Healthy Gums,Colgate,258.0,-20.0,https://www.notino.cz/colgate/propolis-healthy-gums-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//colgate/6920354836039_01-o__230510.jpg
+Extra Fresh,Parodontax,45.0,-15.0,https://www.notino.cz/parodontax/extra-fresh-zubni-pasta-proti-krvaceni-dasni-80292/,https://cdn.notinoimg.com/list_2k//parodontax/3830029294626_01__140428.jpg
+Be You Express Yourself,Curaprox,60.0,-15.0,https://www.notino.cz/curaprox/be-you-express-yourself-kosmeticka-sada-i/,https://cdn.notinoimg.com/list_2k//curaprox/7612412425673_02-o__180918.jpg
+Opti-namel Seal & Strengthen,Elmex,73.0,-15.0,https://www.notino.cz/elmex/opti-namel-seal-strengthen-zubni-pasta-chranici-zubni-sklovinu/,https://cdn.notinoimg.com/list_2k//elmex/7610108054824_01-o__230215.jpg
+3D White Luxe Perfection,Blend-a-med,97.33,-15.0,https://www.notino.cz/blend-a-med/3d-white-luxe-perfection-belici-pasta-proti-skvrnam-na-zubni-sklovine/,https://cdn.notinoimg.com/list_2k//blend-a-med/4084500743847_01-o__240426.jpg
+Ortho,G.U.M,143.0,0,https://www.notino.cz/gum/ortho-zubni-pasta-pro-uzivatele-fixnich-rovnatek/,https://cdn.notinoimg.com/list_2k//gum/gumortw_ktps40_01__151102.jpg
+Sweet & Sour Rhubarb,Marvis,271.67,0,https://www.notino.cz/marvis/marvis-sweet-sour-rhubarb-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111640_01-o__190911.jpg
+Natural Toothpaste Tablets with Fluoride,Denttabs,100.0,0,https://www.notino.cz/denttabs/natural-toothpaste-tablets-with-fluoride-zubni-pasta-s-fluoridem-v-tabletach/,https://cdn.notinoimg.com/list_2k//denttabs/4260066813006_01-o__231115.jpg
+Girls,Pink Elephant,133.33,0,https://www.notino.cz/pink-elephant/girls-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//pink_elephant/8588006040913_01__230116.jpg
+Sensitivity & Gum,Sensodyne,35.0,0,https://www.notino.cz/sensodyne/sensitivity-gum-zubni-pasta-pro-citlive-zuby-577854/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563157904_01-o__240514.jpg
+Pro Expert Professional Protection,Oral B,46.67,0,https://www.notino.cz/oral-b/pro-expert-professional-protection-zubni-pasta-pro-ochranu-dasni/,https://cdn.notinoimg.com/list_2k//oral-b/8700216106863_01-o__230904.jpg
+Exceptional Whitening,Ecodenta,108.0,0,https://www.notino.cz/ecodenta/exceptional-whitening-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001337103_01-o__210809.jpg
+Biomed Charcoal,Splat,144.0,0,https://www.notino.cz/splat/biomed-charcoal-belici-zubni-pasta-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//splat/2800015078388_01-o__220908.jpg
+Integral 8 Natural Elements,Signal,393.0,0,https://www.notino.cz/signal/integral-8-natural-elements-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/8710447328095_01-o__221019.jpg
+3D White,Blend-a-med,421.0,0,https://www.notino.cz/blend-a-med/3d-white-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//blend-a-med/ble3dww_ktps05_01__170130.jpg
+Gum And Sens Whitening,Parodontax,128.0,-20.0,https://www.notino.cz/parodontax/gum-and-sens-whitening-belici-pasta-na-zuby-5023272/,https://cdn.notinoimg.com/list_2k//parodontax/5054563120434_01-o__220427.jpg
+Advanced White Charcoal,Colgate,170.67,-15.0,https://www.notino.cz/colgate/advanced-white-charcoal-zubni-pasta-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//colgate/8718951253827_01-o__240229.jpg
+Clove,Eva,45.0,-15.0,https://www.notino.cz/eva/cloves-belici-zubni-pudr-3-v-1/,https://cdn.notinoimg.com/list_2k//eva/6223001385349_01-o__211115.jpg
+Toothpaste Life's a Beach,HAAN,60.0,-15.0,https://www.notino.cz/haan/toothpaste-lifes-a-beach-zubni-pasta-bez-fluoridu-plnitelna/,https://cdn.notinoimg.com/list_2k//haan/5060917120081_01-o__220405.jpg
+Menthol,Eva,100.0,-20.0,https://www.notino.cz/eva/menthol-belici-zubni-pudr-3-v-1/,https://cdn.notinoimg.com/list_2k//eva/6223001385356_01-o__211115.jpg
+Gum & Enamel Repair Fresh White,Oral B,333.33,-15.0,https://www.notino.cz/oral-b/gum-enamel-repair-extra-fresh-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//oral-b/8001090794413_01-o__240304.jpg
+Ewa Chodakowska Sensitive Papaya & Mint,beBIO,163.0,-15.0,https://www.notino.cz/bebio/ewa-chodakowska-sensitive-papaya-prirodni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//bebio/5908233661348_01-o__220824.jpg
+Junior,Tołpa,326.0,-15.0,https://www.notino.cz/tolpa/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//tolpa/5902719419263_01-o__210414.jpg
+Max White Limited Edition,Colgate,100.0,-20.0,https://www.notino.cz/colgate/max-white-limited-edition-osvezujici-zubni-pasta-limitovana-edice/,https://cdn.notinoimg.com/list_2k//colgate/8718951372498_01-o__230130.jpg
+Kids 3+ Years,Colgate,333.33,-20.0,https://www.notino.cz/colgate/kids-3-years-zubni-pasta-pro-deti-3-6-let-s-fluoridem/,https://cdn.notinoimg.com/list_2k//colgate/8718951321434_01-o__200212.jpg
+Professional,Whitewash,112.0,-15.0,https://www.notino.cz/whitewash/professional-belici-zubni-pasta-s-casteckami-stribra/,https://cdn.notinoimg.com/list_2k//whitewash/5060249420002_01-o__151013.jpg
+24 h Caries Protection,Signal,149.33,-20.0,https://www.notino.cz/signal/24-h-caries-protection-zubni-pasta-chranici-pred-zubnim-kazem/,https://cdn.notinoimg.com/list_2k//signal/8710522427323_01-o__221114.jpg
+Sensitive Professional Repair & Prevent,Elmex,99.0,-20.0,https://www.notino.cz/elmex/sensitive-professional-repair-prevent-zubni-pasta-pro-citlive-zuby-525836/,https://cdn.notinoimg.com/list_2k//elmex/8718951193765_01-o__190409.jpg
+Toothpaste,Jack N’ Jill,99.0,-15.0,https://www.notino.cz/jack-n-jill/toothpaste-prirodni-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657108031_01__210924.jpg
+Paw Patrol Toothpaste,Nickelodeon,30.0,0,https://www.notino.cz/ep-line/paw-patrol-zubni-pasta-pro-deti-s-jahodovou-prichuti/,https://cdn.notinoimg.com/list_2k//ep-line/8412428011124_01-o__210413.jpg
+ADS Protective,Curasept,60.0,0,https://www.notino.cz/curasept/ads-protective-pasta-proti-zubnimu-plaku-a-pro-zdrave-dasne/,https://cdn.notinoimg.com/list_2k//curasept/8056746070250_01-o__220203.jpg
+Pro White,Biorepair,79.0,0,https://www.notino.cz/biorepair/whitening-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//biorepair/brpwhiw_ktps45__130828.jpg
+Gum Protection Fresh Breath,Meridol,105.33,0,https://www.notino.cz/meridol/dental-care-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//meridol/8718951455528_01-o__230807.jpg
+Pro Advanced Sensitivity&Gum Calm,Oral B,58.0,0,https://www.notino.cz/oral-b/professional-sensitivity-gum-calm-gentle-whitening-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//oral-b/8001841520285_01-o__220701.jpg
+Pronamel Junior,Sensodyne,116.0,0,https://www.notino.cz/sensodyne/pro-namel-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//sensodyne/8590335006812_01-o__140401.jpg
+Protect 7 Crystal White,Blend-a-med,166.0,0,https://www.notino.cz/blend-a-med/protect-7-crystal-white-zubni-pasta-pro-kompletni-ochranu-zubu/,https://cdn.notinoimg.com/list_2k//blend-a-med/8006540390917_01-o__220816.jpg
+Professional Gum Intensive Care & Bacteria Guard,Oral B,132.8,0,https://www.notino.cz/oral-b/professional-gum-intensive-care-bacteria-guard-bylinna-zubni-pasta/,https://cdn.notinoimg.com/list_2k//oral-b/8001841182674_01-o__220701.jpg
+Complete Protection Whitening,Sensodyne,26.0,0,https://www.notino.cz/sensodyne/complete-protection-whitening-belici-zubni-pasta-5023271/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563119698_01-o__220920.jpg
+Fluoride Free,Blue M,34.67,0,https://www.notino.cz/blue-m/fluoride-free-zubni-pasta-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//bluem/705105335056_01-o__211111.jpg
+White Now,Signal,80.0,-15.0,https://www.notino.cz/signal/white-now-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//signal/8717644461068_01-o__230106.jpg
+Toothpaste Spearmint,BEN&ANNA,106.67,-15.0,https://www.notino.cz/benanna/toothpaste-spearmint-prirodni-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//benanna/4260491223050_01-o__230331.jpg
+Dentica Ultra White,Tołpa,102.0,-15.0,https://www.notino.cz/tolpa/dentica-ultra-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//tolpa/5902719419249_01-o__210414.jpg
+Perio Plus+ Support 0.09 CHX,Curaprox,136.0,-15.0,https://www.notino.cz/curaprox/perio-plus-support-009-chx-zubni-pasta-proti-krvaceni-dasni-a-parodontoze/,https://cdn.notinoimg.com/list_2k//curaprox/7612412427288_01-o__191204.jpg
+Travel Dental Set,Minions,34.0,-15.0,https://www.notino.cz/minions/travel-dental-set-sada-zubni-pece-3ypro-deti/,https://cdn.notinoimg.com/list_2k//minions/8032979437633_01-o__220902.jpg
+Aktiv,Lacalut,34.0,-20.0,https://www.notino.cz/lacalut/aktiv-zubni-pasta-proti-parodontoze/,https://cdn.notinoimg.com/list_2k//lacalut/4010439200861_02__131023.jpg
+Protect 7 Extra Fresh,Blend-a-med,226.0,-15.0,https://www.notino.cz/blend-a-med/protect-7-extra-fresh-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//blend-a-med/8001090717757_01-o__230221.jpg
+System PAP Whitening,White Pearl,301.33,-20.0,https://www.notino.cz/white-pearl/system-pap-whitening-belici-gel/,https://cdn.notinoimg.com/list_2k//white-pearl/8594069333213_01-o__221116.jpg
+Sensitive Plus Complete Protection,Elmex,158.0,-15.0,https://www.notino.cz/elmex/sensitive-plus-complete-protection-posilujici-zubni-pasta-6058209/,https://cdn.notinoimg.com/list_2k//elmex/8718951501904_01-o__220627.jpg
+NanoCare Whitening,White Pearl,158.0,0,https://www.notino.cz/white-pearl/nanocare-whitening-zubni-pasta-s-nanocasticemi-stribra-proti-skvrnam-na-zubni-sklovine/,https://cdn.notinoimg.com/list_2k//white-pearl/whpnaww_ktps10_01__160520.jpg
+White Now Detox Coconut,Signal,90.0,0,https://www.notino.cz/signal/white-now-detox-coconut-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/8710604754248_01-o__200217.jpg
+Smokers Formula,White Glo,120.0,0,https://www.notino.cz/white-glo/smokers-formula-kosmeticka-sada-i/,https://cdn.notinoimg.com/list_2k//white-glo/whgsmow_kset10_01__151016.jpg
+Carbon+ Toothpaste,WOOM,33.0,0,https://www.notino.cz/woom/carbon-toothpaste-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//woom/8420075180322_01-o__220629.jpg
+4x4 Test The Best,Swissdent,44.0,0,https://www.notino.cz/swissdent/4x4-test-the-best-sada-zubni-pece/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190419_01-o__220829.jpg
+The Mints Ginger,Marvis,945.0,0,https://www.notino.cz/marvis/ginger-mint-zubni-pasta/,https://cdn.notinoimg.com/list_2k//marvis/8004395111732_01-o__171120.jpg
+Caries Protection,Elmex,1181.25,0,https://www.notino.cz/elmex/caries-protection-zubni-pasta-bez-mentolu/,https://cdn.notinoimg.com/list_2k//elmex/4007965015557_01-o__221128.jpg
+Kids Cookies 'n' Vanilla Ice Cream,Ziaja,176.0,0,https://www.notino.cz/ziaja/kids-cookiesn-vanilla-ice-cream-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//ziaja/5901887028055_01-o__150622.jpg
+Enamel Regeneration,Oral B,234.67,0,https://www.notino.cz/oral-b/professional-regenerate-enamel-daily-protection-zubni-pasta-pro-posileni-zubni-skloviny/,https://cdn.notinoimg.com/list_2k//oral-b/8001090247544_01-o__221031.jpg
+Total Original,Colgate,188.0,0,https://www.notino.cz/colgate/total-original-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8590232001149_01-o__230301.jpg
+Complete Protection Extra Fresh,Parodontax,188.0,0,https://www.notino.cz/parodontax/complete-protection-extra-fresh-zubni-pasta-s-fluoridem-pro-zdrave-zuby-a-dasne/,https://cdn.notinoimg.com/list_2k//parodontax/5054563040596_01-o__180504.jpg
+Crystal Combo Pack,Swissdent,111.0,0,https://www.notino.cz/swissdent/crystal-sada-zubni-pece/,https://cdn.notinoimg.com/list_2k//swissdent/7640126890050_01-o__220829.jpg
+Daily White,Signal,148.0,0,https://www.notino.cz/signal/daily-white-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//signal/sigdlwu_ktps20__150511.jpg
+Baby,Ziaja,150.0,0,https://www.notino.cz/ziaja/baby-zubni-gel-pro-deti-s-fluoridem/,https://cdn.notinoimg.com/list_2k//ziaja/5901887027775-o__160503.jpg
+Beauty,Perl Weiss,150.0,0,https://www.notino.cz/perl-weiss/beauty-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//perl_weiss/4008890009413_01__240111.jpg
+Natural,Jack N’ Jill,133.0,-20.0,https://www.notino.cz/jack-n-jill/natural-prirodni-zubni-pasta-pro-deti-bez-prichute/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657008027_01-o__230602.jpg
+White Detox Coconut,BlanX,266.0,-15.0,https://www.notino.cz/blanx/white-detox-coconut-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//blanx/8017331071540_01-o__210205.jpg
+Expert Black Orange Whitening,Ecodenta,83.0,-15.0,https://www.notino.cz/ecodenta/expert-black-orange-whitening-cerna-belici-zubni-pasta-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001003367_01-o__210105.jpg
+Oral Care Set,Barbie,110.67,-15.0,https://www.notino.cz/barbie/oral-care-set-sada-zubni-pecepro-deti/,https://cdn.notinoimg.com/list_2k//barbie/8029241131450_01__220627.jpg
+Aktiv Herbal,Lacalut,88.0,-15.0,https://www.notino.cz/lacalut/aktiv-herbal-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//lacalut/lclahew_ktps10_01__140207.jpg
+Dental Care,Sea of Spa,88.0,-15.0,https://www.notino.cz/sea-of-spa/dental-care-zubni-pasta-s-mineraly-z-mrtveho-more/,https://cdn.notinoimg.com/list_2k//sea-of-spa/sosdcau_ktps10_01__140724.jpg
+Fluoride,Parodontax,105.0,-20.0,https://www.notino.cz/parodontax/fluoride-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//parodontax/4047400393048_01-o__221027.jpg
+Little Siberica BIO,Natura Siberica,105.0,-15.0,https://www.notino.cz/natura-siberica/little-siberica-bio-prirodni-zubni-pasta-pro-deti-s-malinovou-prichuti/,https://cdn.notinoimg.com/list_2k//natura-siberica/4743318147857_01-o__210401.jpg
+Natural Toothpaste Charcoal,The Humble Co.,82.0,-20.0,https://www.notino.cz/humble/natural-toothpaste-charcoal-prirodni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//humble/7350075693212_01-o__210816.jpg
+Extra White & Fresh,Blend-a-med,109.33,-15.0,https://www.notino.cz/blend-a-med/extra-white-fresh-osvezujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//blend-a-med/8006540391525_01-o__220816.jpg
+Tutti Frutti,Brush Baby,166.0,-15.0,https://www.notino.cz/brush-baby/tutti-frutti-detska-zubni-pasta-od-36-mesice/,https://cdn.notinoimg.com/list_2k//brush_baby/5060178100143_01-o__230613.jpg
+Teeth,NUK,166.0,0,https://www.notino.cz/nuk/teeth-sada-zubni-pecepro-deti/,https://cdn.notinoimg.com/list_2k//nuk/4008600215769_01__210818.jpg
+Organic Kids Certified Organic Juicy Fruit,Ecodenta,103.0,0,https://www.notino.cz/ecodenta/organic-kids-certified-organic-juicy-fruit-detska-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001001400_01-o__211110.jpg
+Dental Care,Weleda,137.33,0,https://www.notino.cz/weleda/dental-care-zubni-gel/,https://cdn.notinoimg.com/list_2k//weleda/4001638086554_01-o__230809.jpg
+Royal Tooth Serum,Soaphoria,86.0,0,https://www.notino.cz/soaphoria/royal-tooth-serum-dentalni-serum-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//soaphoria/8586017854178_01-o__240415.jpg
+Glo Professional White,White Glo,143.33,0,https://www.notino.cz/white-glo/charcoal-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//white-glo/9319871002152_01-o__231109.jpg
+Herbal Fresh,Parodontax,180.0,0,https://www.notino.cz/parodontax/herbal-fresh-zubni-pasta-proti-krvaceni-dasni-764934/,https://cdn.notinoimg.com/list_2k//parodontax/5054563066138_01-o__200109.jpg
+Total Whitening,Colgate,360.0,0,https://www.notino.cz/colgate/total-whitening-belici-zubni-pasta-584257/,https://cdn.notinoimg.com/list_2k//colgate/8718951226807_01-o__221125.jpg
+Nourish Healthy White,Sensodyne,44.0,0,https://www.notino.cz/sensodyne/nourish-healthy-white-bioaktivni-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563120175_01-o__220601.jpg
+Caries Protection Complete Care,Elmex,58.67,0,https://www.notino.cz/elmex/caries-protection-complete-care-osvezujici-zubni-pasta-pro-kompletni-ochranu-zubu-6652865/,https://cdn.notinoimg.com/list_2k//elmex/8718951516014_02-o__220929.jpg
+Max White Luminous,Colgate,114.0,0,https://www.notino.cz/colgate/max-white-luminous-zubni-pasta-pro-zarive-bile-zuby/,https://cdn.notinoimg.com/list_2k//colgate/8714789867274_01-o__221128.jpg
+Max White One,Colgate,228.0,0,https://www.notino.cz/colgate/max-white-one-classic-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8714789881188_01-o__221128.jpg
+Max White Purple Reveal,Colgate,165.0,0,https://www.notino.cz/colgate/max-white-purple-reveal-osvezujici-zubni-pasta-6843139/,https://cdn.notinoimg.com/list_2k//colgate/8718951540033_01-o__230130.jpg
+Biocare Natural Whitening and Regenerating,Swissdent,165.0,0,https://www.notino.cz/swissdent/biocare-regeneracni-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//swissdent/2800018278075_01-o__200824.jpg
+Advanced White,Colgate,46.0,-20.0,https://www.notino.cz/colgate/advanced-white-belici-pasta-proti-skvrnam-na-zubni-sklovine/,https://cdn.notinoimg.com/list_2k//colgate/8718951312173_01-o__240229.jpg
+Natural White,Sensodyne,61.33,-15.0,https://www.notino.cz/sensodyne/natural-white-prirodni-zubni-pasta-s-fluoridem-5023268/,https://cdn.notinoimg.com/list_2k//sensodyne/5054563121226_01-o__220601.jpg
+Complete Care,Meridol,131.0,-15.0,https://www.notino.cz/meridol/complete-care-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//meridol/8718951478527_01-o__230807.jpg
+Micro-Granules,Signal,174.67,-15.0,https://www.notino.cz/signal/micro-granules-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/sigmrcu_ktps10__150511.jpg
+Hemp Seed Oil,White Glo,146.0,-15.0,https://www.notino.cz/white-glo/hemp-seed-oil-belici-zubni-pasta-s-kartackem/,https://cdn.notinoimg.com/list_2k//white-glo/9319871001711_01-o__211129.jpg
+Deep Fresh,Signal,194.67,-15.0,https://www.notino.cz/signal/deep-fresh-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//signal/8717163093481_01-o__230306.jpg
+Enzycal Zero,Curaprox,72.0,-20.0,https://www.notino.cz/curaprox/enzycal-zero-zubni-pasta/,https://cdn.notinoimg.com/list_2k//curaprox/7612412422849_01-o__150224.jpg
+Meswak,Eva,96.0,-15.0,https://www.notino.cz/eva/meswak-belici-zubni-pudr-3-v-1/,https://cdn.notinoimg.com/list_2k//eva/6223001385370_01-o__211115.jpg
+Green Brilliant Whitening,Ecodenta,148.0,-15.0,https://www.notino.cz/ecodenta/green-brilliant-whitening-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001333808_01-o__170112.jpg
+Daycare Protection Booster Herbal,Curasept,98.67,0,https://www.notino.cz/curasept/daycare-protection-booster-herbal-gelova-zubni-pasta/,https://cdn.notinoimg.com/list_2k//curasept/8056746073299_01-o__230511.jpg
+Herbal Toothpaste Passionfruit,Herbadent,58.0,0,https://www.notino.cz/herbadent/herbal-toothpaste-passionfruit-bylinna-zubni-pasta/,https://cdn.notinoimg.com/list_2k//herbadent/8594021372311_01-o__230131.jpg
+Max Clean Mineral Scrub,Colgate,77.33,0,https://www.notino.cz/colgate/max-clean-mineral-scrub-gelova-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//colgate/8718951327085_01-o__200602.jpg
+Sensitive CBD,Ecodenta,142.0,0,https://www.notino.cz/ecodenta/sensitive-cbd-bioaktivni-zubni-pasta-s-cbd/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001005811_01-o__230105.jpg
+Pronamel Whitening,Sensodyne,189.33,0,https://www.notino.cz/sensodyne/pronamel-whitening-belici-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//sensodyne/5999518582021_01-o__230315.jpg
+Mickey Toothpaste,Disney,100.0,0,https://www.notino.cz/disney/mickey-toothpaste-detska-zubni-pasta/,https://cdn.notinoimg.com/list_2k//disney/8056234640361_01-o__231108.jpg
+Black,BlanX,333.33,0,https://www.notino.cz/blanx/black-belici-zubni-pasta-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//blanx/8017331053386_01-o__210211.jpg
+Always Smiling 12m+,Chicco,102.0,0,https://www.notino.cz/chicco/always-smiling-12m-sada-zubni-pece-bluepro-deti/,https://cdn.notinoimg.com/list_2k//chicco/8058664022663_01__220712.jpg
+Advanced Senitivity,Biorepair,102.0,0,https://www.notino.cz/biorepair/advanced-senitivity-zubni-pasta-pro-citlive-zuby-pro-ochranu-zubu-a-dasni/,https://cdn.notinoimg.com/list_2k//biorepair/8017331077849_01-o__230906.jpg
+Toothpaste Good On Ya,HAAN,170.0,0,https://www.notino.cz/haan/toothpaste-good-on-ya-zubni-pasta-s-fluoridem-plnitelna/,https://cdn.notinoimg.com/list_2k//haan/5060669781066_01-o__230515.jpg
+Max White White Crystals,Colgate,226.67,0,https://www.notino.cz/colgate/max-white-white-crystals-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//colgate/8718951312845_01-o__200403.jpg
+Dental Care,Sylveco,153.0,0,https://www.notino.cz/sylveco/dental-care-prirodni-zubni-pasta-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//sylveco/5902249010688_01__170731.jpg
+Kids,Elgydium,204.0,0,https://www.notino.cz/elgydium/kids-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//elgydium/3577056022012_01-o__230712.jpg
+Oral Care Toothpaste,Chicco,52.0,0,https://www.notino.cz/chicco/oral-care-zubni-pasta-pro-deti-12-m/,https://cdn.notinoimg.com/list_2k//chicco/cicorad_ktps10_01__150803.jpg
+Travel Kit,Minions,69.33,0,https://www.notino.cz/minions/travel-kit-sada-zubni-pece-3ypro-deti/,https://cdn.notinoimg.com/list_2k//minions/8032979437992_01-o__220902.jpg
+Whitening,Opalescence,85.0,-15.0,https://www.notino.cz/opalescence/original-formula-belici-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//opalescence/883205029492_01-o__160127.jpg
+Extreme Whitening,Swissdent,97.0,-15.0,https://www.notino.cz/swissdent/extreme-zubni-pasta/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190037_01-o__121205.jpg
+Original White,G.U.M,315.0,-15.0,https://www.notino.cz/gum/original-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumorwu_ktps10__131106.jpg
+Natural,Jack N’ Jill,29.0,-15.0,https://www.notino.cz/jack-n-jill/natural-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//jack-n-jill/9312657009017_01-o__230602.jpg
+Mintperfekt Activ,Ziaja,38.67,-15.0,https://www.notino.cz/ziaja/mintperfekt-activ-remineralizujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ziaja/5901887039921-o__170327.jpg
+Natural Siberian 7 Northern Herbs,Natura Siberica,86.0,-15.0,https://www.notino.cz/natura-siberica/natura-siberica-natural-siberian-7-northern-herbs-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437531_01-o__190709.jpg
+Kids 0-6,Biorepair,172.0,0,https://www.notino.cz/biorepair/junior-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//biorepair/8017331069202_01-o__210205.jpg
+Professional Choice,White Glo,96.0,0,https://www.notino.cz/white-glo/professional-choice-belici-zubni-pasta-na-cesty/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000189_01-o__210524.jpg
+Tooth Mousse,GC,128.0,0,https://www.notino.cz/gc/tooth-mousse-tutti-frutti-remineralizacni-ochranny-krem-pro-citlive-zuby-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//gc/2800011949248_01-o__160324.jpg
+Natural Siberian Siberian Pearl,Natura Siberica,134.0,0,https://www.notino.cz/natura-siberica/natural-siberian-siberian-pearl-belici-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//natura-siberica/4607174437548_01-o__190611.jpg
+Caries Protection,Elmex,270.0,0,https://www.notino.cz/elmex/caries-protection-zubni-pasta-chranici-pred-zubnim-kazem-s-fluoridem-73186/,https://cdn.notinoimg.com/list_2k//elmex/4007965560002_11-o__140311.jpg
+Whitening Mint,Marvis,49.0,0,https://www.notino.cz/marvis/whitening-mint-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//marvis/8004395111718_01-o__171120.jpg
+Junior 6-12 Years,Elmex,65.33,0,https://www.notino.cz/elmex/junior-6-12-years-zubni-pasta-pro-deti-73188/,https://cdn.notinoimg.com/list_2k//elmex/9003096004991_01-o__140313.jpg
+Whitening,MEDIBLANC,90.0,0,https://www.notino.cz/mediblanc/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275386502-o__221107.jpg
+Sensitive Whitening,Elmex,90.0,0,https://www.notino.cz/elmex/sensitive-whitening-pasta-pro-prirozene-bile-zuby-73519/,https://cdn.notinoimg.com/list_2k//elmex/8714789899299_01-o__140528.jpg
+Dental Care,Weleda,67.0,0,https://www.notino.cz/weleda/dental-care-detsky-zubni-gel/,https://cdn.notinoimg.com/list_2k//weleda/4001638081863_01-o__121109.jpg
+Expert Black Whitening,Ecodenta,134.0,0,https://www.notino.cz/ecodenta/extra-cerna-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001336991_01-o__160825.jpg
+Gum Protection,Meridol,18.0,0,https://www.notino.cz/meridol/meridol-zubni-pasta-proti-krvaceni-dasni/,https://cdn.notinoimg.com/list_2k//meridol/8718951459885_01-o__220524.jpg
+Be You,Curaprox,75.0,0,https://www.notino.cz/curaprox/be-you-rising-star-regeneracni-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//curaprox/7612412429503_01-o__220225.jpg
+Professional Medical Herbs,Splat,494.0,0,https://www.notino.cz/splat/professional-medical-herbs-bioaktivni-zubni-pasta-pro-ochranu-zubu-a-dasni/,https://cdn.notinoimg.com/list_2k//splat/7640168930097_01-o__220908.jpg
+White Now Men Super Pure,Signal,1580.0,0,https://www.notino.cz/signal/white-now-men-super-pure-zubni-pasta-pro-muze-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//signal/8710908135835_01-o__230216.jpg
+Total Detox,Colgate,82.0,-15.0,https://www.notino.cz/colgate/total-detox-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8718951480070_01-o__220524.jpg
+Aligner,Curaprox,109.33,-15.0,https://www.notino.cz/curaprox/aligner-vyzivujici-ochranna-pena/,https://cdn.notinoimg.com/list_2k//curaprox/7612412431353_01-o__240411.jpg
+Total Charcoal,Colgate,607.0,-20.0,https://www.notino.cz/colgate/total-charcoal-belici-zubni-pasta-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//colgate/6920354829406_01-o__221125.jpg
+Spiderman Toothpaste,Marvel,1517.5,-15.0,https://www.notino.cz/marvel/spiderman-toothpaste-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//marvel/8032979436971_01__220725.jpg
+ADS DNA 705,Curasept,71.0,-15.0,https://www.notino.cz/curasept/ads-dna-705-gelova-zubni-pasta/,https://cdn.notinoimg.com/list_2k//curasept/8056746073503_01-o__240503.jpg
+Family Complex,WOOM,94.67,-15.0,https://www.notino.cz/woom/family-complex-zubni-pasta/,https://cdn.notinoimg.com/list_2k//woom/8420075180360_01-o__220830.jpg
+White+ Toothpaste,WOOM,72.0,-15.0,https://www.notino.cz/woom/white-toothpaste-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//woom/8420075180315_01-o__220629.jpg
+KIDS Raspberry,MEDIBLANC,96.0,-15.0,https://www.notino.cz/mediblanc/kids-rapsberry-detska-zubni-pasta/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300533123_01-o__220114.jpg
+Kids,Lavera,159.0,-15.0,https://www.notino.cz/lavera/volume-strength-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//lavera/4021457629220_01-o__191002.jpg
+Intensive Stain Removal,BlanX,212.0,-15.0,https://www.notino.cz/blanx/intensive-stain-removal-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//blanx/8006320054763_01-o__180221.jpg
+Travel Kit,White Glo,87.0,0,https://www.notino.cz/white-glo/travel-kit-cestovni-sada-bluena-zuby/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000356_01-o__220624.jpg
+Daycare Protection Booster Fruit Sensation,Curasept,116.0,0,https://www.notino.cz/curasept/daycare-protection-booster-fruit-sensation-gelova-zubni-pasta/,https://cdn.notinoimg.com/list_2k//curasept/8056746073305_01-o__230511.jpg
+Crystal Travel Tube,Swissdent,142.0,0,https://www.notino.cz/swissdent/crystal-travel-tube-remineralizacni-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190716_01-o__221027.jpg
+Colour Surprise,Ecodenta,189.33,0,https://www.notino.cz/ecodenta/expert-black-whitening-zubni-pasta-pro-deti-proti-zubnimu-kazu/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001002490_01-o__210809.jpg
+Max White Ultra Active Foam,Colgate,175.0,0,https://www.notino.cz/colgate/max-white-ultra-active-foam-belici-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8718951504752_01-o__240229.jpg
+Boys,Pink Elephant,350.0,0,https://www.notino.cz/pink-elephant/boys-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//pink_elephant/8588006040906_01__230116.jpg
+Brush Teeth Tablets Kids without Fluoride,Denttabs,149.0,0,https://www.notino.cz/denttabs/brush-teeth-tablets-kids-without-fluoride-zubni-pasta-bez-fluoridu-v-tabletach/,https://cdn.notinoimg.com/list_2k//denttabs/4260066813433_01-o__231115.jpg
+Up White Supreme Whitening,Perl Weiss,198.67,0,https://www.notino.cz/perl-weiss/up-white-supreme-whitening-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//perl_weiss/4008890009482_01__240304.jpg
+Supreme,iWhite,133.0,0,https://www.notino.cz/iwhite/supreme-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//iwhite/5425012534674_01-o__210823.jpg
+Junior Bubblegum,WOOM,177.33,0,https://www.notino.cz/woom/junior-bubblegum-detska-zubni-pasta/,https://cdn.notinoimg.com/list_2k//woom/4751033920112_01-o__220629.jpg
+Sensitive+ Toothpaste,WOOM,84.0,0,https://www.notino.cz/woom/sensitive-toothpaste-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//woom/4751033920235_01-o__220629.jpg
+Original,Truthpaste,84.0,0,https://www.notino.cz/truthpaste/original-prirodni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//truthpaste/5060655080005_01-o__231127.jpg
+Family Sensitive,WOOM,170.0,0,https://www.notino.cz/woom/family-sensitive-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//woom/8420075180377_01-o__220830.jpg
+Biocare Combo Pack,Swissdent,226.67,0,https://www.notino.cz/swissdent/biocare-combo-pack-sada-zubni-pece/,https://cdn.notinoimg.com/list_2k//swissdent/7640126890067_01-o__220829.jpg
+Certified Organic Sensitivity Relief,Ecodenta,98.0,-20.0,https://www.notino.cz/ecodenta/certified-organic-sensitivity-relief-prirodni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001002179_01__220606.jpg
+Rapid Whitening,Sensodyne,130.67,-15.0,https://www.notino.cz/sensodyne/rapid-whitening-belici-zubni-pasta-pro-citlive-zuby-755952/,https://cdn.notinoimg.com/list_2k//sensodyne/2000012592935_01-o__210908.jpg
+Extreme Promo Kit,Swissdent,341.0,-15.0,https://www.notino.cz/swissdent/extreme-promo-kit-kosmeticka-sada-v/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190150_01-o__200123.jpg
+Advantage Cavity Protection,White Glo,151.56,-15.0,https://www.notino.cz/white-glo/advantage-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//white-glo/9319871001117_01-o__210524.jpg
+Flavour Collection Classic,Marvis,599.0,-15.0,https://www.notino.cz/marvis/marvis-flavour-collection-kosmeticka-sada-ii/,https://cdn.notinoimg.com/list_2k//marvis/8004395110490_01-o__190716.jpg
+Aktiv Ochrana dásní & Citlivé zuby,Lacalut,599.0,-15.0,https://www.notino.cz/lacalut/sensitive-zubni-pasta-pro-ochranu-zubu-a-dasni/,https://cdn.notinoimg.com/list_2k//lacalut/4016369656747_01-o__210522.jpg
+Total Active Fresh,Colgate,89.0,-15.0,https://www.notino.cz/colgate/total-active-fresh-zubni-pasta-pro-kompletni-ochranu-zubu/,https://cdn.notinoimg.com/list_2k//colgate/8718951226838_01-o__220801.jpg
+Toothpaste Mild Mint,Chicco,63.57,0,https://www.notino.cz/chicco/toothpaste-mild-mint-detska-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//chicco/8058664138708_01__231124.jpg
+Certified Organic Anti-plaque,Ecodenta,303.0,0,https://www.notino.cz/ecodenta/expert-black-whitening-pasta-proti-zubnimu-plaku-a-pro-zdrave-dasne-s-kokosovym-olejem/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001002155_01-o__210809.jpg
+Toothpaste Dolce Vita,HAAN,303.0,0,https://www.notino.cz/haan/toothpaste-dolce-vita-zubni-pasta-s-fluoridem-s-prebiotiky/,https://cdn.notinoimg.com/list_2k//haan/5060669781349_01-o__230515.jpg
+Up White Advanced Whitening,Perl Weiss,164.0,0,https://www.notino.cz/perl-weiss/up-white-advanced-whitening-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//perl_weiss/4008890009512_01__240304.jpg
+Natural Toothpaste Tablets without Fluoride,Denttabs,218.67,0,https://www.notino.cz/denttabs/natural-toothpaste-tablets-without-fluoride-zubni-pasta-bez-fluoridu-v-tabletach/,https://cdn.notinoimg.com/list_2k//denttabs/4260066813105_01-o__231115.jpg
+Baby Spokojené děťátko,Weleda,73.0,0,https://www.notino.cz/weleda/baby-spokojene-detatko-sadapro-deti/,https://cdn.notinoimg.com/list_2k//weleda/8590129007797_01-o__240301.jpg
+ADS DNA 712,Curasept,97.33,0,https://www.notino.cz/curasept/ads-dna-712-gelova-zubni-pasta/,https://cdn.notinoimg.com/list_2k//curasept/8056746073497_01-o__240503.jpg
+Sensitive,Elgydium,90.0,0,https://www.notino.cz/elgydium/sensitive-zubni-pasta/,https://cdn.notinoimg.com/list_2k//elgydium/elgsenw_ktps10__150504.jpg
+Kids Caries and Sugar Acid Protection,Lacalut,180.0,0,https://www.notino.cz/lacalut/kids-caries-and-sugar-acid-protection-detska-zubni-pasta/,https://cdn.notinoimg.com/list_2k//lacalut/4016369542286_01-o__230908.jpg
+Unicorn Sparkle 7+,Beverly Hills Formula,134.0,0,https://www.notino.cz/beverly-hills-formula/unicorn-sparkle-7-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//beverly-hills-formula/5020105004098_01-o__220912.jpg
+Total Original XL,Colgate,178.67,0,https://www.notino.cz/colgate/total-original-xl-zubni-pasta-pro-kompletni-ochranu-zubu/,https://cdn.notinoimg.com/list_2k//colgate/8714789710020_01-o__240404.jpg
+Kids Peach,WOOM,179.0,0,https://www.notino.cz/woom/kids-peach-detska-zubni-pasta/,https://cdn.notinoimg.com/list_2k//woom/4751033920105_01-o__220629.jpg
+Toothpaste Powder,My White Secret,358.0,0,https://www.notino.cz/my-white-secret/toothpaste-powder-zubni-pasta-v-prasku/,https://cdn.notinoimg.com/list_2k//my-white-secret/5060548390457_01-o__220829.jpg
+Dinosaur,Brush Baby,149.0,0,https://www.notino.cz/brush-baby/dinosaur-detska-zubni-pasta-od-36-mesice/,https://cdn.notinoimg.com/list_2k//brush_baby/5060178100464_01-o__230613.jpg
+Super +,Ecodenta,198.67,0,https://www.notino.cz/ecodenta/super-prirodni-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001334591_01__220606.jpg
+CBD Aloe Vera,White Pearl,134.0,0,https://www.notino.cz/white-pearl/cbd-aloe-vera-zubni-pasta/,https://cdn.notinoimg.com/list_2k//white-pearl/8594069333312_01-o__230725.jpg
+Toothpaste White,BEN&ANNA,1.07,0,https://www.notino.cz/benanna/toothpaste-white-prirodni-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//benanna/4260491223029_01-o__230331.jpg
+Toothpaste Coconut Whip,My White Secret,199.0,-15.0,https://www.notino.cz/my-white-secret/toothpaste-coconut-whip-zubni-pasta/,https://cdn.notinoimg.com/list_2k//my-white-secret/5060548390556_01-o__230913.jpg
+Dental Care White Time Set,MEDIBLANC,331.67,-15.0,https://www.notino.cz/mediblanc/dental-care-white-time-set-sada-zubni-pecepro-zarive-bile-zuby/,https://cdn.notinoimg.com/list_2k//mediblanc/3760275382894_01__221220.jpg
+Whitening & Tartar Control,White Glo,156.0,-15.0,https://www.notino.cz/white-glo/whitening-tartar-control-belici-pasta-s-kartackem/,https://cdn.notinoimg.com/list_2k//white-glo/9319871001452_01-o__211129.jpg
+Daily,TePe,104.0,-15.0,https://www.notino.cz/tepe/daily-zubni-pasta/,https://cdn.notinoimg.com/list_2k//tepe/7350121253391_01-o__240419.jpg
+Gift Sets Great Coral,HAAN,95.0,-20.0,https://www.notino.cz/haan/gift-sets-great-coral-darkova-sada/,https://cdn.notinoimg.com/list_2k//haan/5060669781004_01-o__221122.jpg
+Max White Bye Bye Stains,Colgate,126.67,-15.0,https://www.notino.cz/colgate/max-white-bye-bye-stains-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8718951610521_01-o__240404.jpg
+Teeth Whitening Maximum LED,Hello Coco,970.0,-15.0,https://www.notino.cz/hello-coco/teeth-whitening-maximum-led-belici-sada-na-zuby/,https://cdn.notinoimg.com/list_2k//hello-coco/8588007594231_01-o__221123.jpg
+Pharma B5,Yotuel,970.0,-15.0,https://www.notino.cz/yotuel/pharma-b5-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//yotuel/yotpb5w_ktps10__150428.jpg
+Cool Spearmint,Signal,101.0,-15.0,https://www.notino.cz/signal/cool-spearmint-matova-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/8720181111303_01-o__221114.jpg
+Charcoal,Truthpaste,134.67,-15.0,https://www.notino.cz/truthpaste/charcoal-prirodni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//truthpaste/5060655080128_01-o__231127.jpg
+Coconut Oil Shine,White Glo,2960.0,0,https://www.notino.cz/white-glo/coconut-oil-shine-belici-pasta-s-kartackem/,https://cdn.notinoimg.com/list_2k//white-glo/9319871001131_01-o__211129.jpg
+For Kids,Sylveco,2960.0,0,https://www.notino.cz/sylveco/for-kids-detska-zubni-pasta-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//sylveco/5902249016192_01-o__211103.jpg
+Extra Sensitive,Lacalut,345.0,0,https://www.notino.cz/lacalut/sensitive-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//lacalut/4016369546147_01-o__210522.jpg
+Toothpaste 6-24 months,Chicco,690.0,0,https://www.notino.cz/chicco/toothpaste-6-24-months-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//chicco/8003670743637_01-o__220624.jpg
+Remineralising,Whitewash,26.0,0,https://www.notino.cz/whitewash/remineralising-belici-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//whitewash/5060249420019_01-o__151013.jpg
+Herbal Fresh Trio,Sensodyne,34.67,0,https://www.notino.cz/sensodyne/herbal-fresh-trio-zubni-pasta-s-fluoridem-3-ks/,https://cdn.notinoimg.com/list_2k//sensodyne/2000028905279_01-o__221004.jpg
+ADS Soothing,Curasept,219.0,0,https://www.notino.cz/curasept/ads-soothing-zklidnujici-zubni-pasta-s-gelovou-texturou/,https://cdn.notinoimg.com/list_2k//curasept/8056746070236_01-o__220203.jpg
+Bělící zubní pasta Bělicí zubní pasta,Venira,219.0,0,https://www.notino.cz/venira/belici-zubni-pasta-belici-zubni-pasta-pasta-na-zuby/,https://cdn.notinoimg.com/list_2k//venira/8594198177108_01-o__240509.jpg
+Instant White,White Glo,147.0,0,https://www.notino.cz/white-glo/instant-white-sada-zubni-pece/,https://cdn.notinoimg.com/list_2k//white-glo/93198714001407_01-o__220818.jpg
+Dentifricio,Naturaverde,98.0,0,https://www.notino.cz/naturaverde/dentifricio-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//naturaverde/8029241123820_01-o__240125.jpg
+Whitening,Elgydium,125.0,0,https://www.notino.cz/elgydium/whitening-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//elgydium/elgwhtw_ktps10__150504.jpg
+Kids,Elgydium,166.67,0,https://www.notino.cz/elgydium/kids-detska-zubni-pasta-od-36-mesice/,https://cdn.notinoimg.com/list_2k//elgydium/3577056022227_01-o__220816.jpg
+Bava Di Lumaca,Naturaverde,142.0,0,https://www.notino.cz/naturaverde/bava-di-lumaca-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//naturaverde/8029241123813_01-o__240130.jpg
+Cavity Protection,Signal,189.33,0,https://www.notino.cz/signal/cavity-protection-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/sigcvpu_ktps05__150511.jpg
+Rocket,Brush Baby,117.0,-15.0,https://www.notino.cz/brush-baby/rocket-detska-zubni-pasta-boruvka/,https://cdn.notinoimg.com/list_2k//brush_baby/5060178102437_01-o__230613.jpg
+Toothpaste Good On Ya,HAAN,234.0,-15.0,https://www.notino.cz/haan/toothpaste-good-on-ya-zubni-pasta-bez-fluoridu-plnitelna/,https://cdn.notinoimg.com/list_2k//haan/5060917120074_01-o__220405.jpg
+Gum Protection Toothpaste,Biorepair,163.0,-15.0,https://www.notino.cz/biorepair/oral-care-gum-protection-zubni-pasta-pro-ochranu-dasni/,https://cdn.notinoimg.com/list_2k//biorepair/8017331054192_01-o__210825.jpg
+Lasting Freshness,Blend-a-med,296.36,0,https://www.notino.cz/blend-a-med/lasting-freshness-osvezujici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//blend-a-med/8006540391365_01-o__220816.jpg
+Oral Care Toothpaste,Chicco,112.0,0,https://www.notino.cz/chicco/oral-care-zubni-pasta-pro-deti-6-m/,https://cdn.notinoimg.com/list_2k//chicco/8003670918707_01-o__231128.jpg
+Daycare Protection Junior Booster,Curasept,149.33,0,https://www.notino.cz/curasept/daycare-protection-junior-booster-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//curasept/8056746073312_01-o__230605.jpg
+Toothpaste,Minions,38.0,0,https://www.notino.cz/minions/toothpaste-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//minions/8032979437657_01-o__220902.jpg
+Kids Sweet Orange,Truthpaste,50.67,0,https://www.notino.cz/truthpaste/kids-sweet-orange-prirodni-zubni-pasta-pro-deti/,https://cdn.notinoimg.com/list_2k//truthpaste/5060655080043_01-o__231127.jpg
+Biosmalto Baby-Kid,Curasept,90.0,0,https://www.notino.cz/curasept/biosmalto-baby-kid-detska-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//curasept/8056746071202_01-o__220203.jpg
+White,Lacalut,180.0,0,https://www.notino.cz/lacalut/white-zubni-pasta-s-belicim-ucinkem/,https://cdn.notinoimg.com/list_2k//lacalut/lclwhiw_ktps10__141010.jpg
+Biosmalto Mousse,Curasept,75.0,0,https://www.notino.cz/curasept/biosmalto-mousse-pena-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//curasept/8056746071264_01-o__221121.jpg
+Emergency Kit Red,Swissdent,100.0,0,https://www.notino.cz/swissdent/emergency-kit-red-kosmeticka-sada-i/,https://cdn.notinoimg.com/list_2k//swissdent/7640126190181_01-o__121112.jpg
+Max White Expert Micellar,Colgate,209.0,0,https://www.notino.cz/colgate/max-white-expert-micellar-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8718951411043_01-o__221125.jpg
+Hydral,G.U.M,209.0,0,https://www.notino.cz/gum/hydral-zubni-pasta/,https://cdn.notinoimg.com/list_2k//gum/gumhydu_ktps20__150309.jpg
+Glo Charcoal,White Glo,143.0,0,https://www.notino.cz/white-glo/charcoal-deep-stain-remover-belici-zubni-pasta-s-aktivnim-uhlim/,https://cdn.notinoimg.com/list_2k//white-glo/9319871002169_01-o__231109.jpg
+Certified Organic Whitening,Ecodenta,286.0,0,https://www.notino.cz/ecodenta/certified-organic-anti-plaque-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001002162_01-o__210809.jpg
+Gift Sets Great Aquamarine,HAAN,121.0,0,https://www.notino.cz/haan/gift-sets-great-aquamarine-darkova-sada/,https://cdn.notinoimg.com/list_2k//haan/5060669780908_01-o__220819.jpg
+Complete Protect 7 Original,Blend-a-med,161.33,0,https://www.notino.cz/blend-a-med/complete-protect-7-original-zubni-pasta-pro-kompletni-ochranu-zubu/,https://cdn.notinoimg.com/list_2k//blend-a-med/8006540391488_01-o__220816.jpg
+Natural Strawberry,Brush Baby,410.0,0,https://www.notino.cz/brush-baby/natural-strawberry-zubni-pasta-pro-deti-s-jahodovou-prichuti/,https://cdn.notinoimg.com/list_2k//brush_baby/5060178102918_01-o__230613.jpg
+Green Wild Strawberry Flavoured,Ecodenta,820.0,0,https://www.notino.cz/ecodenta/green-wild-strawberry-flavoured-zubni-pasta-pro-deti-s-vuni-lesnich-jahod-a-extraktem-z-mrkve/,https://cdn.notinoimg.com/list_2k//ecodenta/4770001331743_01-o__160825.jpg
+Kids Mild Mint,Truthpaste,492.0,0,https://www.notino.cz/truthpaste/kids-mild-mint-prirodni-zubni-pasta-pro-deti-mata/,https://cdn.notinoimg.com/list_2k//truthpaste/5060655080067_01-o__231127.jpg
+Perfect White Sensitive,Beverly Hills Formula,492.0,0,https://www.notino.cz/beverly-hills-formula/perfect-white-sensitive-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//beverly-hills-formula/5020105004340_01-o__240423.jpg
+Cavity Protection Fresh Mint,Colgate,135.0,0,https://www.notino.cz/colgate/cavity-protection-zubni-pasta-s-fluoridem/,https://cdn.notinoimg.com/list_2k//colgate/6920354836176_01-o__230811.jpg
+Charcoal,White Glo,180.0,0,https://www.notino.cz/white-glo/charcoal-sada-zubni-pece/,https://cdn.notinoimg.com/list_2k//white-glo/9319871001070_01-o__210524.jpg
+Black Lux Set,Curasept,439.0,-15.0,https://www.notino.cz/curasept/black-lux-set-belici-sada-na-zuby/,https://cdn.notinoimg.com/list_2k//curasept/8056746071486_01-o__220218.jpg
+White Lux Set,Curasept,439.0,-20.0,https://www.notino.cz/curasept/white-lux-set-belici-sada-na-zuby/,https://cdn.notinoimg.com/list_2k//curasept/8056746071493_01-o__220218.jpg
+3D White Delicate White,Blend-a-med,439.0,-20.0,https://www.notino.cz/blend-a-med/3d-white-delicate-white-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//blend-a-med/8006540793183_01-o__230221.jpg
+Advanced White Volcanic Ash and Baking Soda,Colgate,439.0,-15.0,https://www.notino.cz/colgate/advanced-white-volcanic-ash-and-baking-soda-prirodni-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/8718951555488_01-o__230426.jpg
+SensiVital,G.U.M,63.0,0,https://www.notino.cz/gum/sensivital-zubni-pasta-pro-citlive-zuby/,https://cdn.notinoimg.com/list_2k//gum/gumsevu_ktps10__131107.jpg
+Herbal Original,Colgate,84.0,0,https://www.notino.cz/colgate/herbal-original-bylinna-zubni-pasta/,https://cdn.notinoimg.com/list_2k//colgate/clghrow_ktps10_01__160306.jpg
+Optima,Apis Natural Cosmetics,53.0,0,https://www.notino.cz/apis-natural-cosmetics/optima-zubni-pasta-s-mineraly-z-mrtveho-more/,https://cdn.notinoimg.com/list_2k//apis_natural_cosmetics/5901810041113_01-o__230906.jpg
+Aktiv,Lacalut,70.67,0,https://www.notino.cz/lacalut/aktiv-belici-zubni-pasta-pro-zdrave-zuby-a-dasne/,https://cdn.notinoimg.com/list_2k//lacalut/4016369656426_01-o__200110.jpg
+Integral 8 Actions,Signal,108.0,0,https://www.notino.cz/signal/integral-8-zubni-pasta/,https://cdn.notinoimg.com/list_2k//signal/8720181117640_01-o__210611.jpg
+Juventus,EP Line,144.0,0,https://www.notino.cz/ep-line/juventus-darkova-sada/,https://cdn.notinoimg.com/list_2k//ep-line/8029241128917_01-o__211014.jpg
+KIDS Orange,MEDIBLANC,50.0,0,https://www.notino.cz/mediblanc/kids-orange-detska-zubni-pasta-2186097/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300533130_01-o__220114.jpg
+Oral Care Sparkly White,Himalaya Herbals,66.67,0,https://www.notino.cz/himalaya-herbals/oral-care-zubni-pasta-pro-zarive-bile-zuby/,https://cdn.notinoimg.com/list_2k//himalaya-herbals/hihorlw_ktps10__151008.jpg
+Oral Care Mint Fresh,Himalaya Herbals,92.0,0,https://www.notino.cz/himalaya-herbals/oral-care-zubni-pasta-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//himalaya-herbals/hihorlw_ktps20__151009.jpg
+Oral Care Complete Care,Himalaya Herbals,92.0,0,https://www.notino.cz/himalaya-herbals/oral-care-zubni-pasta-pro-kompletni-ochranu-zubu/,https://cdn.notinoimg.com/list_2k//himalaya-herbals/hihorlw_ktps30__151008.jpg
+Junior 6-12,Biorepair,195.0,0,https://www.notino.cz/biorepair/junior-detska-zubni-pasta-bez-fluoridu/,https://cdn.notinoimg.com/list_2k//biorepair/8017331054093_01-o__220310.jpg
+Oral Care Ayurvedic Dental Cream,Himalaya Herbals,260.0,0,https://www.notino.cz/himalaya-herbals/oral-care-zubni-krem-pro-svezi-dech/,https://cdn.notinoimg.com/list_2k//himalaya-herbals/8901138500306_01-o__220613.jpg
+Stain-away,Himalaya Herbals,58.0,0,https://www.notino.cz/himalaya-herbals/oral-care-intenzivni-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//himalaya-herbals/6297000713977_01-o__210811.jpg
+Herbal Toothpaste Fresh Herbs,Herbadent,77.33,0,https://www.notino.cz/herbadent/herbal-toothpaste-bylinna-zubni-pasta/,https://cdn.notinoimg.com/list_2k//herbadent/8594021372304_01-o__230131.jpg
+Peppermint,Dr. Bronner’s,366.0,0,https://www.notino.cz/dr-bronners/dr-bronners-peppermint-belici-zubni-pasta-bez-obsahu-fluoridu/,https://cdn.notinoimg.com/list_2k//dr-bronners/0018787321102_01-o__190719.jpg
+Teeth Whitening Foam,My White Secret,366.0,0,https://www.notino.cz/my-white-secret/teeth-whitening-foam-penovy-korektor-pro-beleni-zubu/,https://cdn.notinoimg.com/list_2k//my-white-secret/5060548390563_01-o__231128.jpg
+White Shock Instant White,BlanX,175.0,0,https://www.notino.cz/blanx/white-shock-belici-pasta-proti-skvrnam-na-zubni-sklovine-s-okamzitym-ucinkem/,https://cdn.notinoimg.com/list_2k//blanx/8017331051573_01__160413.jpg
+Whitening,BlanX,350.0,0,https://www.notino.cz/blanx/whitening-belici-zubni-pasta/,https://cdn.notinoimg.com/list_2k//blanx/8017331051474_01-o__210205.jpg
+JUNIOR Mint fresh,MEDIBLANC,175.0,0,https://www.notino.cz/mediblanc/junior-mint-fresh-detska-zubni-pasta/,https://cdn.notinoimg.com/list_2k//mediblanc/8059300533147_01-o__220114.jpg
+Professional Choice,White Glo,350.0,0,https://www.notino.cz/white-glo/professional-choice-sada-zubni-pece/,https://cdn.notinoimg.com/list_2k//white-glo/9319871000615_01-o__210524.jpg
