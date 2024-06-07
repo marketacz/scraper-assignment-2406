@@ -29,18 +29,21 @@ for i in range(1, 25):
     brands = page_data.select("h2.sc-guDLey")
     prices = page_data.select("span.sc-hhyKGa.sc-gYrqIg.iwwcvf.dOVzXZ")
     links = page_data.select(".sc-jdHILj")
+    images = page_data.select(".sc-iKOmoZ.gTqEqC")
 
-    for product, brand, price, link in zip(products, brands, prices, links):
+    for product, brand, price, link, image in zip(products, brands, prices, links, images):
         product_out = product.text.strip()
         brand_out = brand.text.strip()
         price_out = price.text.strip()
         link_out = f"https://www.notino.cz{(link.get('href'))}".strip()
+        image_out = image.get('src').strip()
 
         output_dict = {
             "Product Name": product_out,
             "Brand": brand_out,
             "Price": price_out,
             "Link": link_out,
+            "Image": image_out
         }
 
         output_data.append(output_dict)
