@@ -29,21 +29,19 @@ for i in range(1, 25):
     products = page_data.select("h3.sc-dmyCSP")
     brands = page_data.select("h2.sc-guDLey")
     prices = page_data.select("span.sc-hhyKGa.sc-gYrqIg.iwwcvf.dOVzXZ")
-    # # prices = page_data.find("span", {"class": "sc-hhyKGa sc-gYrqIg iwwcvf dOVzXZ"})
+    links = page_data.select(".sc-jdHILj")
 
-    # # for product in products:
-    # #     product_out = product.text.strip()
-    # #     output_dict["Brand"] = product_out
-
-    for product, brand, price in zip(products, brands, prices):
+    for product, brand, price, link in zip(products, brands, prices, links):
         product_out = product.text.strip()
         brand_out = brand.text.strip()
         price_out = price.text.strip()
+        link_out = f"https://www.notino.cz{(link.get('href'))}".strip()
 
         output_dict = {
             "Product Name": product_out,
             "Brand": brand_out,
             "Price": price_out,
+            "Link": link_out,
         }
     #     output_data.append(output_dict)
     # for price in page_data:
