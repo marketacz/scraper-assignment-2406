@@ -19,7 +19,6 @@ def scrape_page(url):
     soup = BeautifulSoup(content_url, "html.parser")
     return soup
 
-#price
 output_dict = {}
 
 for i in range(1, 25):
@@ -43,16 +42,7 @@ for i in range(1, 25):
             "Price": price_out,
             "Link": link_out,
         }
-    #     output_data.append(output_dict)
-    # for price in page_data:
-    #     price = page_data.find("span", {"class": "sc-hhyKGa sc-gYrqIg iwwcvf dOVzXZ"})
-    #     output_dict["Price"] = price
-    # links = page_data.select(".sc-jdHILj")
 
-    # for link in links:
-
-    #     output_dict["Url"] = f"https://www.notino.cz{(link.get('href'))}".strip()
- 
         output_data.append(output_dict)
 
 with open(output_file, "w", newline="", encoding="utf-8") as file_out:
