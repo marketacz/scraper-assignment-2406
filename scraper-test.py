@@ -27,7 +27,7 @@ for i in range(1, 25):
 
     products = page_data.select("h3.sc-dmyCSP")
     brands = page_data.select("h2.sc-guDLey")
-    prices = page_data.select("span.sc-hhyKGa.sc-gYrqIg.iwwcvf.dOVzXZ")
+    prices = page_data.select('span[data-testid="price-component"]')
     links = page_data.select(".sc-jdHILj")
     images = page_data.select(".sc-iKOmoZ.gTqEqC")
 
