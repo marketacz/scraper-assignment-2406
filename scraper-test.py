@@ -35,16 +35,16 @@ for i in range(1, 25):
     for idx, (product, brand, price, link, image) in enumerate(zip(products, brands, prices, links, images)):
         product_out = product.text.strip()
         brand_out = brand.text.strip()
-        price_out = price.text.strip()
+        price_out = price.text.strip().replace(',','.')
 
         # Select discount for each product by index
         discount_elements = page_data.select(".styled__DiscountValue-sc-1b3ggfp-1.jWXmOz")
         discount_out = "0"
         if idx < len(discount_elements):
-            discount_out = discount_elements[idx].text.strip()
+            discount_out = discount_elements[idx].text.strip().replace(' %','')
         
-        link_out = f"https://www.notino.cz{(link.get('href'))}".strip()
-        image_out = image.get('src').strip()
+        link_out = f"https://www.notino.cz{link['href']}".strip()
+        image_out = image['src'].strip()
 
         output_dict = {
             "Product Name": product_out,
