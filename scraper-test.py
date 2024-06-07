@@ -4,7 +4,7 @@ import cloudscraper
 import csv
 import re
 
-output_file = "notino_transformed.csv"
+output_file = "notino_raw.csv"
 output_data = []
 
 print("Processing...")
@@ -31,10 +31,18 @@ for i in range(1, 25):
     links = page_data.select(".sc-jdHILj")
     images = page_data.select(".sc-iKOmoZ.gTqEqC")
 
-    for product, brand, price, link, image in zip(products, brands, prices, links, images):
+
+    for idx, (product, brand, price, link, image) in enumerate(zip(products, brands, prices, links, images)):
         product_out = product.text.strip()
         brand_out = brand.text.strip()
         price_out = price.text.strip()
+
+        # Select discount for each product by index
+        discount_elements = page_data.select(".styled__DiscountValue-sc-1b3ggfp-1.jWXmOz")
+        discount_out = "0"
+        if idx < len(discount_elements):
+            discount_out = discount_elements[idx].text.strip()
+        
         link_out = f"https://www.notino.cz{(link.get('href'))}".strip()
         image_out = image.get('src').strip()
 
@@ -42,6 +50,7 @@ for i in range(1, 25):
             "Product Name": product_out,
             "Brand": brand_out,
             "Price": price_out,
+            "Discount": discount_out,
             "Link": link_out,
             "Image": image_out
         }
