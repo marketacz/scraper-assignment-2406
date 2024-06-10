@@ -1,6 +1,5 @@
 ﻿# Scraper Assignment
-1) `abstract/abstract_scraper.py` - Base class for scrapers. 
-2) `notino/scraper.py` - Scrapes data from Notino website about toothpastes (https://www.notino.cz/zubni-pasty/) and transform them.
+1) `notino/scraper.py` - Scrapes data from Notino website about toothpastes (https://www.notino.cz/zubni-pasty/) and transform them.
  * Gets info about products: product name, brand, price, url, image
  * Saves result to csv file `notino_raw.csv`
 3) `notino/transformation.py` - Transformation of raw data to final format
